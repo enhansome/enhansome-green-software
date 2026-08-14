@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:42:44Z",
+            "last_commit": "2026-08-14T18:38:56Z",
             "owner": "KernelTuner",
             "repo": "kernel_tuner",
             "stars": 413
@@ -283,7 +283,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-30T23:34:08Z",
+            "last_commit": "2026-08-14T14:48:09Z",
             "owner": "carbonintensityio",
             "repo": "green-scheduler",
             "stars": 15
@@ -362,7 +362,7 @@
             "last_commit": "2026-07-19T18:33:40Z",
             "owner": "hubblo-org",
             "repo": "scaphandre",
-            "stars": 1961
+            "stars": 1962
           }
         },
         {
@@ -381,6 +381,20 @@
         },
         {
           "node_type": "item",
+          "title": "Eco-CI",
+          "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-02T07:50:45Z",
+            "owner": "green-coding-solutions",
+            "repo": "eco-ci-energy-estimation",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
           "title": "PowerJoular",
           "description": "Monitors the power consumption of software and hardware components in real time.",
           "children": [],
@@ -391,20 +405,6 @@
             "owner": "joular",
             "repo": "powerjoular",
             "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eco-CI",
-          "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-02T07:50:45Z",
-            "owner": "green-coding-solutions",
-            "repo": "eco-ci-energy-estimation",
-            "stars": 114
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2023-02-09T08:10:10Z",
             "owner": "ipmitool",
             "repo": "ipmitool",
-            "stars": 1641
+            "stars": 1642
           }
         },
         {
@@ -547,7 +547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:54:25.054Z",
+    "last_updated": "2026-08-14T19:44:04.858Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_sha": "b0fe7c55faa193ef3d872ccc010c3191dfacade3",
     "enhanced_repository": "enhansome/enhansome-green-software",
