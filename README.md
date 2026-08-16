@@ -102,8 +102,8 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### General Purpose — Energy
 
-* [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,962 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,556 | 🐛 52 | 🌐 Go | 📅 2026-08-11 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,961 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,557 | 🐛 52 | 🌐 Go | 📅 2026-08-11 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation) ⭐ 115 | 🐛 5 | 🌐 Shell | 📅 2026-08-02 - A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerJoular](https://github.com/joular/powerjoular) ⭐ 115 | 🐛 10 | 🌐 Ada | 📅 2026-02-13 - Monitors the power consumption of software and hardware components in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Vessim](https://vessim.readthedocs.io/en/latest/) - A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. ([source](https://github.com/dos-group/vessim) ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2026-06-10) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -128,7 +128,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 ### OS — Linux
 
 * [ipmitool](https://github.com/ipmitool/ipmitool) ⚠️ Archived - Reads the power consumption of a bare metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [PowerTOP](https://github.com/fenrus75/powertop) ⭐ 1,327 | 🐛 101 | 🌐 C++ | 📅 2026-08-11 - A Linux tool to diagnose issues with power consumption and power management. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [PowerTOP](https://github.com/fenrus75/powertop) ⭐ 1,328 | 🐛 101 | 🌐 C++ | 📅 2026-08-11 - A Linux tool to diagnose issues with power consumption and power management. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [turbostress](https://github.com/teads/turbostress) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2021-03-31 - Generates load on a machine and outputs the computer's power metrics for that load. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [FreeIPMI](https://www.gnu.org/software/freeipmi/) - Reads the power consumption of a bare metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerAPI](https://powerapi.org) - A Linux software-defined power meter estimating process-scale power consumption in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -300,7 +300,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ## Related Lists
 
-* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 147 | 🐛 0 | 🌐 Python | 📅 2026-08-13 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
+* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 147 | 🐛 3 | 🌐 Python | 📅 2026-08-13 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
 
 ***
 
@@ -343,4 +343,4 @@ For any inquiries or support, please reach out to <ags@digitalemissions.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
