@@ -142,7 +142,7 @@
                     "archived": false,
                     "id": 54894320,
                     "language": "Python",
-                    "last_commit": "2026-08-17T17:38:33Z",
+                    "last_commit": "2026-08-19T15:20:59Z",
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 413
@@ -172,7 +172,7 @@
                     "archived": false,
                     "id": 468889604,
                     "language": "Python",
-                    "last_commit": "2026-07-27T09:19:26Z",
+                    "last_commit": "2026-08-19T15:19:25Z",
                     "owner": "fvaleye",
                     "repo": "tracarbon",
                     "stars": 110
@@ -396,7 +396,7 @@
                     "archived": false,
                     "id": 454528656,
                     "language": "Go",
-                    "last_commit": "2026-08-18T12:38:32Z",
+                    "last_commit": "2026-08-19T15:50:21Z",
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1558
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:31:24.899Z",
+    "last_updated": "2026-08-19T19:20:48.369Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_id": 387275735,
     "original_repository_sha": "b0fe7c55faa193ef3d872ccc010c3191dfacade3",
