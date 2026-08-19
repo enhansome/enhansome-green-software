@@ -1,554 +1,574 @@
 {
   "items": [
     {
-      "description": "Each entry ends with a kind badge: for software you can run, and a gray badge for , , , , , , , , for organizations, and for commercial products and vendor pages. Plain entries are articles. Entries marked unmaintained point at archived or abandoned projects kept for reference.",
-      "items": [],
-      "title": "Legend"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tooling"
-    },
-    {
-      "description": "",
+      "description": "This list is created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the Green Software Foundation, its member organizations, or contributors to the list.\nTHESE MATERIALS ARE PROVIDED \"AS IS.\" The parties expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk of implementing or otherwise using the materials is assumed by the implementer and user. IN NO EVENT WILL THE PARTIES BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THIS DELIVERABLE OR ITS GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER MEMBER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\nTopics: AI · AWS · Azure · Google Cloud · Multicloud · Source code · Carbon-aware scheduling · Energy monitoring · Linux · Mobile · Websites · Windows · Organizations · Courses · Research",
       "items": [
         {
-          "node_type": "item",
-          "title": "Experiment Impact Tracker",
-          "description": "A Python library that calculates the carbon cost of a machine learning job; unmaintained, archived October 2025.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-01-30T04:19:25Z",
-            "owner": "Breakend",
-            "repo": "experiment-impact-tracker",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AXIOMAX ESG Carbon Shield",
-          "description": "An MIT-licensed SDK for Python, Node.js, and Bash that signs AI inference calls with ed25519 and SHA-256 hash chains to produce auditable carbon attestations for CSRD and SEC reporting; calibration coefficients and keys remain server-side, and the project advertises a pending USPTO patent.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-10T19:25:55Z",
-            "owner": "axiomaxllc",
-            "repo": "esg-carbon-shield",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ebb-ai",
-          "description": "An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T22:56:58Z",
-            "owner": "Vitalini",
-            "repo": "ebb-ai",
-            "stars": 1
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Experiment Impact Tracker",
+                  "description": "A Python library that calculates the carbon cost of a machine learning job; unmaintained, archived October 2025.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 219920822,
+                    "language": "Python",
+                    "last_commit": "2024-01-30T04:19:25Z",
+                    "owner": "Breakend",
+                    "repo": "experiment-impact-tracker",
+                    "stars": 293
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AXIOMAX ESG Carbon Shield",
+                  "description": "An MIT-licensed SDK for Python, Node.js, and Bash that signs AI inference calls with ed25519 and SHA-256 hash chains to produce auditable carbon attestations for CSRD and SEC reporting; calibration coefficients and keys remain server-side, and the project advertises a pending USPTO patent.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1262059307,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-10T19:25:55Z",
+                    "owner": "axiomaxllc",
+                    "repo": "esg-carbon-shield",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ebb-ai",
+                  "description": "An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. (source)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1237049607,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-11T22:56:58Z",
+                    "owner": "Vitalini",
+                    "repo": "ebb-ai",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AI — Carbon"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "carbontracker",
+                  "description": "Tracks and predicts the energy consumption and carbon footprint of training deep learning models, as described in Anthony et al. (2020).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 257581525,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T06:43:44Z",
+                    "owner": "saintslab",
+                    "repo": "carbontracker",
+                    "stars": 481
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FedZero",
+                  "description": "A federated learning system for zero-carbon distributed AI training, successor to Lowcarb, which won the GSF CarbonHack 2022. (paper)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 715188665,
+                    "language": "Python",
+                    "last_commit": "2026-05-13T20:49:37Z",
+                    "owner": "dos-group",
+                    "repo": "fedzero",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "AI — Energy"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "kube-green",
+                  "description": "An open-source Kubernetes addon that automatically shuts down selected resources when you do not need them.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 340965344,
+                    "language": "Go",
+                    "last_commit": "2026-08-19T03:04:08Z",
+                    "owner": "kube-green",
+                    "repo": "kube-green",
+                    "stars": 1368
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Carbonifer",
+                  "description": "A command line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 588729837,
+                    "language": "Go",
+                    "last_commit": "2024-07-13T05:09:23Z",
+                    "owner": "carboniferio",
+                    "repo": "carbonifer",
+                    "stars": 104
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud — Multicloud"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Kernel Tuner",
+                  "description": "An auto-tuner capable of optimizing GPU code for energy efficiency.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54894320,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T17:38:33Z",
+                    "owner": "KernelTuner",
+                    "repo": "kernel_tuner",
+                    "stars": 413
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Creedengo (formerly ecoCode)",
+                  "description": "SonarQube plugins for PHP, Python, Java, JavaScript, and more, providing static analyzers that highlight code structures with a negative ecological impact.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 571790951,
+                    "language": "Java",
+                    "last_commit": "2026-08-16T20:33:05Z",
+                    "owner": "green-code-initiative",
+                    "repo": "creedengo-rules-specifications",
+                    "stars": 211
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tracarbon",
+                  "description": "Tracks a device's energy consumption and calculates carbon emissions using your location.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 468889604,
+                    "language": "Python",
+                    "last_commit": "2026-07-27T09:19:26Z",
+                    "owner": "fvaleye",
+                    "repo": "tracarbon",
+                    "stars": 110
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "JoularJX",
+                  "description": "Java software power monitoring at the source code level, in real time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 409504874,
+                    "language": "Java",
+                    "last_commit": "2026-02-19T21:56:20Z",
+                    "owner": "joular",
+                    "repo": "joularjx",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "energy-consumption-measuring-toolkit",
+                  "description": "Accenture's RAPL-based toolkit for measuring the energy consumption of Python applications.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 782557968,
+                    "language": "Python",
+                    "last_commit": "2024-05-02T10:23:56Z",
+                    "owner": "Accenture",
+                    "repo": "energy-consumption-measuring-toolkit",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CarbonLint",
+                  "description": "An MIT-licensed Tauri/Rust desktop app and npm CLI that tracks CPU, memory, disk, network, and GPU use, converts it to CO2 via regional grid intensity, and scores projects 0-100.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1152681070,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-01T10:36:46Z",
+                    "owner": "nishal21",
+                    "repo": "CarbonLint",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "carbon-text",
+                  "description": "A syntax highlighter and snippets extension for carbon.txt files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 983603824,
+                    "language": null,
+                    "last_commit": "2025-09-17T13:14:49Z",
+                    "owner": "ShayokhShorfuddin",
+                    "repo": "carbon-text",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Green CodeQL",
+                  "description": "A GPL-3.0 collection of custom CodeQL queries flagging energy-related sustainability issues across six packs covering Java/Kotlin, Python, C/C++, JavaScript, C#, and GitHub Actions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1152064265,
+                    "language": "CodeQL",
+                    "last_commit": "2026-06-23T13:52:07Z",
+                    "owner": "green-code-initiative",
+                    "repo": "green-codeql-queries",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code-Based"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Carbon Aware SDK",
+                  "description": "A Web API and command line for unified forecast and historical power grid emissions data by location and time, to help build carbon-aware software.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 409382013,
+                    "language": "HTML",
+                    "last_commit": "2026-04-14T07:17:25Z",
+                    "owner": "Green-Software-Foundation",
+                    "repo": "carbon-aware-sdk",
+                    "stars": 586
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Carbon Aware Computing — Tools and Free Forecast Data",
+                  "description": "A NuGet package, PowerShell cmdlets, and a live SDK instance, plus an open carbon forecast for Europe in the Carbon Aware SDK's JSON format.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 623579593,
+                    "language": "C#",
+                    "last_commit": "2026-02-20T14:25:40Z",
+                    "owner": "bluehands",
+                    "repo": "Carbon-Aware-Computing",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "GreenScheduled",
+                  "description": "An Apache-2.0 Java library adding a annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 945923315,
+                    "language": "Java",
+                    "last_commit": "2026-08-18T07:34:30Z",
+                    "owner": "carbonintensityio",
+                    "repo": "green-scheduler",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Carbon Aware Computing Hangfire Extension",
+                  "description": "A Hangfire extension that schedules tasks into the window of minimal grid carbon intensity, based on emission forecasts.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622616263,
+                    "language": "C#",
+                    "last_commit": "2025-10-10T08:28:54Z",
+                    "owner": "bluehands",
+                    "repo": "Hangfire.Community.CarbonAwareExecution",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PSElectricityMaps",
+                  "description": "A PowerShell module for retrieving current power grid carbon emissions data with a free Electricity Maps or CO2signal account.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 620813652,
+                    "language": "PowerShell",
+                    "last_commit": "2023-09-04T13:09:59Z",
+                    "owner": "cloudyspells",
+                    "repo": "PSElectricityMaps",
+                    "stars": 10
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Carbon AppInsights",
+                  "description": "An Azure Functions solution logging Electricity Maps emissions data for Azure regions into Azure Monitor for alerting triggers and automated actions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631582511,
+                    "language": "Bicep",
+                    "last_commit": "2023-04-30T21:29:36Z",
+                    "owner": "cloudyspells",
+                    "repo": "carbon-appinsights",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PSWattTime",
+                  "description": "A PowerShell module for retrieving current power grid carbon emissions data with a free WattTime.org account.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609922442,
+                    "language": "PowerShell",
+                    "last_commit": "2023-03-26T18:03:52Z",
+                    "owner": "cloudyspells",
+                    "repo": "PSWattTime",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General Purpose — Emissions"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "scaphandre",
+                  "description": "Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 304646001,
+                    "language": "Rust",
+                    "last_commit": "2026-07-19T18:33:40Z",
+                    "owner": "hubblo-org",
+                    "repo": "scaphandre",
+                    "stars": 1964
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kepler",
+                  "description": "The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 454528656,
+                    "language": "Go",
+                    "last_commit": "2026-08-18T12:38:32Z",
+                    "owner": "sustainable-computing-io",
+                    "repo": "kepler",
+                    "stars": 1558
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Eco-CI",
+                  "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 589524014,
+                    "language": "Shell",
+                    "last_commit": "2026-08-02T07:50:45Z",
+                    "owner": "green-coding-solutions",
+                    "repo": "eco-ci-energy-estimation",
+                    "stars": 115
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PowerJoular",
+                  "description": "Monitors the power consumption of software and hardware components in real time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 350253423,
+                    "language": "Ada",
+                    "last_commit": "2026-02-13T11:19:45Z",
+                    "owner": "joular",
+                    "repo": "powerjoular",
+                    "stars": 115
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vessim",
+                  "description": "A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. (source)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 603417933,
+                    "language": "Python",
+                    "last_commit": "2026-06-10T10:44:50Z",
+                    "owner": "dos-group",
+                    "repo": "vessim",
+                    "stars": 90
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General Purpose — Energy"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ipmitool",
+                  "description": "Reads the power consumption of a bare metal machine through DCMI, the IPMI extension.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 128686483,
+                    "language": "C",
+                    "last_commit": "2023-02-09T08:10:10Z",
+                    "owner": "ipmitool",
+                    "repo": "ipmitool",
+                    "stars": 1642
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PowerTOP",
+                  "description": "A Linux tool to diagnose issues with power consumption and power management.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3096701,
+                    "language": "C++",
+                    "last_commit": "2026-08-18T17:15:53Z",
+                    "owner": "fenrus75",
+                    "repo": "powertop",
+                    "stars": 1329
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "turbostress",
+                  "description": "Generates load on a machine and outputs the computer's power metrics for that load.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 338071917,
+                    "language": "Go",
+                    "last_commit": "2021-03-31T06:52:27Z",
+                    "owner": "teads",
+                    "repo": "turbostress",
+                    "stars": 27
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OS — Linux"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CO2.js",
+                  "description": "An npm module for accessing the Green Web API and estimating the carbon emissions of digital services.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 242579154,
+                    "language": "JavaScript",
+                    "last_commit": "2026-06-29T07:16:45Z",
+                    "owner": "thegreenwebfoundation",
+                    "repo": "co2.js",
+                    "stars": 489
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ec0lint",
+                  "description": "A static code analysis tool providing hints for reducing the carbon footprint of websites.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 468072394,
+                    "language": "JavaScript",
+                    "last_commit": "2024-02-13T19:33:17Z",
+                    "owner": "ec0lint",
+                    "repo": "ec0lint",
+                    "stars": 159
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Carbonara",
+                  "description": "A custom element from Digital4Better that displays the carbon footprint of web navigation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 350101450,
+                    "language": "TypeScript",
+                    "last_commit": "2023-03-10T10:38:18Z",
+                    "owner": "digital4better",
+                    "repo": "carbonara",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Web"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tooling"
         }
       ],
-      "title": "AI — Carbon"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "carbontracker",
-          "description": "Tracks and predicts the energy consumption and carbon footprint of training deep learning models, as described in Anthony et al. (2020).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T06:43:44Z",
-            "owner": "saintslab",
-            "repo": "carbontracker",
-            "stars": 481
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FedZero",
-          "description": "A federated learning system for zero-carbon distributed AI training, successor to Lowcarb, which won the GSF CarbonHack 2022. (paper)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-13T20:49:37Z",
-            "owner": "dos-group",
-            "repo": "fedzero",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "AI — Energy"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "kube-green",
-          "description": "An open-source Kubernetes addon that automatically shuts down selected resources when you do not need them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-25T03:20:09Z",
-            "owner": "kube-green",
-            "repo": "kube-green",
-            "stars": 1368
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carbonifer",
-          "description": "A command line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-07-13T05:09:23Z",
-            "owner": "carboniferio",
-            "repo": "carbonifer",
-            "stars": 104
-          }
-        }
-      ],
-      "title": "Cloud — Multicloud"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Kernel Tuner",
-          "description": "An auto-tuner capable of optimizing GPU code for energy efficiency.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T17:38:33Z",
-            "owner": "KernelTuner",
-            "repo": "kernel_tuner",
-            "stars": 413
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Creedengo (formerly ecoCode)",
-          "description": "SonarQube plugins for PHP, Python, Java, JavaScript, and more, providing static analyzers that highlight code structures with a negative ecological impact.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-16T20:33:05Z",
-            "owner": "green-code-initiative",
-            "repo": "creedengo-rules-specifications",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tracarbon",
-          "description": "Tracks a device's energy consumption and calculates carbon emissions using your location.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-27T09:19:26Z",
-            "owner": "fvaleye",
-            "repo": "tracarbon",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JoularJX",
-          "description": "Java software power monitoring at the source code level, in real time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-02-19T21:56:20Z",
-            "owner": "joular",
-            "repo": "joularjx",
-            "stars": 95
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "energy-consumption-measuring-toolkit",
-          "description": "Accenture's RAPL-based toolkit for measuring the energy consumption of Python applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-02T10:23:56Z",
-            "owner": "Accenture",
-            "repo": "energy-consumption-measuring-toolkit",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CarbonLint",
-          "description": "An MIT-licensed Tauri/Rust desktop app and npm CLI that tracks CPU, memory, disk, network, and GPU use, converts it to CO2 via regional grid intensity, and scores projects 0-100.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-01T10:36:46Z",
-            "owner": "nishal21",
-            "repo": "CarbonLint",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "carbon-text",
-          "description": "A syntax highlighter and snippets extension for carbon.txt files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-17T13:14:49Z",
-            "owner": "ShayokhShorfuddin",
-            "repo": "carbon-text",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Green CodeQL",
-          "description": "A GPL-3.0 collection of custom CodeQL queries flagging energy-related sustainability issues across six packs covering Java/Kotlin, Python, C/C++, JavaScript, C#, and GitHub Actions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CodeQL",
-            "last_commit": "2026-06-23T13:52:07Z",
-            "owner": "green-code-initiative",
-            "repo": "green-codeql-queries",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Code-Based"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Carbon Aware SDK",
-          "description": "A Web API and command line for unified forecast and historical power grid emissions data by location and time, to help build carbon-aware software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-04-14T07:17:25Z",
-            "owner": "Green-Software-Foundation",
-            "repo": "carbon-aware-sdk",
-            "stars": 585
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carbon Aware Computing — Tools and Free Forecast Data",
-          "description": "A NuGet package, PowerShell cmdlets, and a live SDK instance, plus an open carbon forecast for Europe in the Carbon Aware SDK's JSON format.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-02-20T14:25:40Z",
-            "owner": "bluehands",
-            "repo": "Carbon-Aware-Computing",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GreenScheduled",
-          "description": "An Apache-2.0 Java library adding a annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T07:34:30Z",
-            "owner": "carbonintensityio",
-            "repo": "green-scheduler",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carbon Aware Computing Hangfire Extension",
-          "description": "A Hangfire extension that schedules tasks into the window of minimal grid carbon intensity, based on emission forecasts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-10-10T08:28:54Z",
-            "owner": "bluehands",
-            "repo": "Hangfire.Community.CarbonAwareExecution",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSElectricityMaps",
-          "description": "A PowerShell module for retrieving current power grid carbon emissions data with a free Electricity Maps or CO2signal account.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2023-09-04T13:09:59Z",
-            "owner": "cloudyspells",
-            "repo": "PSElectricityMaps",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carbon AppInsights",
-          "description": "An Azure Functions solution logging Electricity Maps emissions data for Azure regions into Azure Monitor for alerting triggers and automated actions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Bicep",
-            "last_commit": "2023-04-30T21:29:36Z",
-            "owner": "cloudyspells",
-            "repo": "carbon-appinsights",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PSWattTime",
-          "description": "A PowerShell module for retrieving current power grid carbon emissions data with a free WattTime.org account.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PowerShell",
-            "last_commit": "2023-03-26T18:03:52Z",
-            "owner": "cloudyspells",
-            "repo": "PSWattTime",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "General Purpose — Emissions"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "scaphandre",
-          "description": "Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-19T18:33:40Z",
-            "owner": "hubblo-org",
-            "repo": "scaphandre",
-            "stars": 1964
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kepler",
-          "description": "The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T12:38:32Z",
-            "owner": "sustainable-computing-io",
-            "repo": "kepler",
-            "stars": 1557
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eco-CI",
-          "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-02T07:50:45Z",
-            "owner": "green-coding-solutions",
-            "repo": "eco-ci-energy-estimation",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PowerJoular",
-          "description": "Monitors the power consumption of software and hardware components in real time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ada",
-            "last_commit": "2026-02-13T11:19:45Z",
-            "owner": "joular",
-            "repo": "powerjoular",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vessim",
-          "description": "A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. (source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-10T10:44:50Z",
-            "owner": "dos-group",
-            "repo": "vessim",
-            "stars": 90
-          }
-        }
-      ],
-      "title": "General Purpose — Energy"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ipmitool",
-          "description": "Reads the power consumption of a bare metal machine through DCMI, the IPMI extension.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2023-02-09T08:10:10Z",
-            "owner": "ipmitool",
-            "repo": "ipmitool",
-            "stars": 1642
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PowerTOP",
-          "description": "A Linux tool to diagnose issues with power consumption and power management.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T17:15:53Z",
-            "owner": "fenrus75",
-            "repo": "powertop",
-            "stars": 1329
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "turbostress",
-          "description": "Generates load on a machine and outputs the computer's power metrics for that load.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-03-31T06:52:27Z",
-            "owner": "teads",
-            "repo": "turbostress",
-            "stars": 27
-          }
-        }
-      ],
-      "title": "OS — Linux"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "CO2.js",
-          "description": "An npm module for accessing the Green Web API and estimating the carbon emissions of digital services.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-29T07:16:45Z",
-            "owner": "thegreenwebfoundation",
-            "repo": "co2.js",
-            "stars": 489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ec0lint",
-          "description": "A static code analysis tool providing hints for reducing the carbon footprint of websites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-13T19:33:17Z",
-            "owner": "ec0lint",
-            "repo": "ec0lint",
-            "stars": 159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Carbonara",
-          "description": "A custom element from Digital4Better that displays the carbon footprint of web navigation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-10T10:38:18Z",
-            "owner": "digital4better",
-            "repo": "carbonara",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Web"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Research"
-    },
-    {
-      "description": "The Green Software Foundation Directory helps developers, organizations, and enthusiasts find and contribute to projects that reduce carbon emissions and promote sustainability in software development.",
-      "items": [],
-      "title": "About the Directory"
-    },
-    {
-      "description": "Use the contribution form available on the website to add new projects or resources to the directory. Contributions are subject to review to ensure they meet the sustainability criteria of the Green Software Foundation.",
-      "items": [],
-      "title": "Adding New Entries"
-    },
-    {
-      "description": "This project is licensed under the MIT License.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "For any inquiries or support, please reach out to ags@digitalemissions.org.",
-      "items": [],
-      "title": "Contact"
+      "title": "Disclaimer"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:23:45.913Z",
+    "last_updated": "2026-08-19T12:31:24.899Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
+    "original_repository_id": 387275735,
     "original_repository_sha": "b0fe7c55faa193ef3d872ccc010c3191dfacade3",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
