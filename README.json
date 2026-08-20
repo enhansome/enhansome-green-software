@@ -142,7 +142,7 @@
                     "archived": false,
                     "id": 54894320,
                     "language": "Python",
-                    "last_commit": "2026-08-19T15:20:59Z",
+                    "last_commit": "2026-08-20T14:35:48Z",
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 413
@@ -172,7 +172,7 @@
                     "archived": false,
                     "id": 468889604,
                     "language": "Python",
-                    "last_commit": "2026-08-19T15:19:25Z",
+                    "last_commit": "2026-08-20T08:47:31Z",
                     "owner": "fvaleye",
                     "repo": "tracarbon",
                     "stars": 110
@@ -272,7 +272,7 @@
                     "last_commit": "2026-04-14T07:17:25Z",
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
-                    "stars": 586
+                    "stars": 587
                   }
                 },
                 {
@@ -396,7 +396,7 @@
                     "archived": false,
                     "id": 454528656,
                     "language": "Go",
-                    "last_commit": "2026-08-19T15:50:21Z",
+                    "last_commit": "2026-08-20T11:34:34Z",
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1558
@@ -481,7 +481,7 @@
                     "last_commit": "2026-08-18T17:15:53Z",
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1329
+                    "stars": 1330
                   }
                 },
                 {
@@ -566,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:20:48.369Z",
+    "last_updated": "2026-08-20T19:26:48.001Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_id": 387275735,
     "original_repository_sha": "b0fe7c55faa193ef3d872ccc010c3191dfacade3",
