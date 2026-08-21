@@ -24,6 +24,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "claude-carbon",
+                  "description": "An MIT-licensed Bash and SQLite tool that tracks the carbon footprint of Claude Code agent sessions, with a live CO2 estimate in the status line, per-model reports, shareable PNG report cards, and a published methodology.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1202295583,
+                    "language": "Shell",
+                    "last_commit": "2026-08-21T13:09:16Z",
+                    "owner": "gwittebolle",
+                    "repo": "claude-carbon",
+                    "stars": 163
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "AXIOMAX ESG Carbon Shield",
                   "description": "An MIT-licensed SDK for Python, Node.js, and Bash that signs AI inference calls with ed25519 and SHA-256 hash chains to produce auditable carbon attestations for CSRD and SEC reporting; calibration coefficients and keys remain server-side, and the project advertises a pending USPTO patent.",
                   "children": [],
@@ -142,7 +157,7 @@
                     "archived": false,
                     "id": 54894320,
                     "language": "Python",
-                    "last_commit": "2026-08-20T14:35:48Z",
+                    "last_commit": "2026-08-21T10:56:57Z",
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 413
@@ -160,7 +175,7 @@
                     "last_commit": "2026-08-16T20:33:05Z",
                     "owner": "green-code-initiative",
                     "repo": "creedengo-rules-specifications",
-                    "stars": 211
+                    "stars": 212
                   }
                 },
                 {
@@ -272,7 +287,7 @@
                     "last_commit": "2026-04-14T07:17:25Z",
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
-                    "stars": 587
+                    "stars": 588
                   }
                 },
                 {
@@ -396,25 +411,10 @@
                     "archived": false,
                     "id": 454528656,
                     "language": "Go",
-                    "last_commit": "2026-08-20T11:34:34Z",
+                    "last_commit": "2026-08-21T09:16:48Z",
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1558
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Eco-CI",
-                  "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 589524014,
-                    "language": "Shell",
-                    "last_commit": "2026-08-02T07:50:45Z",
-                    "owner": "green-coding-solutions",
-                    "repo": "eco-ci-energy-estimation",
-                    "stars": 115
+                    "stars": 1559
                   }
                 },
                 {
@@ -429,6 +429,21 @@
                     "last_commit": "2026-02-13T11:19:45Z",
                     "owner": "joular",
                     "repo": "powerjoular",
+                    "stars": 116
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Eco-CI",
+                  "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 589524014,
+                    "language": "Shell",
+                    "last_commit": "2026-08-02T07:50:45Z",
+                    "owner": "green-coding-solutions",
+                    "repo": "eco-ci-energy-estimation",
                     "stars": 115
                   }
                 },
@@ -481,7 +496,7 @@
                     "last_commit": "2026-08-18T17:15:53Z",
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1330
+                    "stars": 1331
                   }
                 },
                 {
@@ -515,10 +530,10 @@
                     "archived": false,
                     "id": 242579154,
                     "language": "JavaScript",
-                    "last_commit": "2026-06-29T07:16:45Z",
+                    "last_commit": "2026-08-20T23:34:04Z",
                     "owner": "thegreenwebfoundation",
                     "repo": "co2.js",
-                    "stars": 489
+                    "stars": 490
                   }
                 },
                 {
@@ -533,7 +548,7 @@
                     "last_commit": "2024-02-13T19:33:17Z",
                     "owner": "ec0lint",
                     "repo": "ec0lint",
-                    "stars": 159
+                    "stars": 160
                   }
                 },
                 {
@@ -548,7 +563,7 @@
                     "last_commit": "2023-03-10T10:38:18Z",
                     "owner": "digital4better",
                     "repo": "carbonara",
-                    "stars": 9
+                    "stars": 10
                   }
                 }
               ],
@@ -566,10 +581,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:26:48.001Z",
+    "last_updated": "2026-08-21T19:22:18.633Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_id": 387275735,
-    "original_repository_sha": "b0fe7c55faa193ef3d872ccc010c3191dfacade3",
+    "original_repository_sha": "328b1a5cef833b87b371eff23f4d7eadb7129266",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
     "title": "Awesome Green Software with stars"
