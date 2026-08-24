@@ -455,7 +455,7 @@
                     "archived": false,
                     "id": 454528656,
                     "language": "Go",
-                    "last_commit": "2026-08-21T09:16:48Z",
+                    "last_commit": "2026-08-24T18:26:54Z",
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1559
@@ -764,7 +764,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:55.197Z",
+    "last_updated": "2026-08-24T19:24:39.485Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_id": 387275735,
     "original_repository_sha": "328b1a5cef833b87b371eff23f4d7eadb7129266",
