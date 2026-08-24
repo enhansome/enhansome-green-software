@@ -31,7 +31,7 @@
                     "archived": false,
                     "id": 1202295583,
                     "language": "Shell",
-                    "last_commit": "2026-08-22T20:51:05Z",
+                    "last_commit": "2026-08-24T10:33:08Z",
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
                     "stars": 163
@@ -83,7 +83,7 @@
                     "archived": false,
                     "id": 257581525,
                     "language": "Python",
-                    "last_commit": "2026-08-17T06:43:44Z",
+                    "last_commit": "2026-08-24T09:53:48Z",
                     "owner": "saintslab",
                     "repo": "carbontracker",
                     "stars": 481
@@ -113,6 +113,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Green Cost Explorer",
+                  "description": "A climate-related spend analysis for AWS from the Green Web Foundation; unmaintained, archived September 2023.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 201018485,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-04T06:30:45Z",
+                    "owner": "thegreenwebfoundation",
+                    "repo": "green-cost-explorer",
+                    "stars": 178
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud — AWS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Cloud Jewels",
+                  "description": "An MIT-licensed set of energy-estimation coefficients and scripts converting GCP billing data into trailing 30-day kWh estimates for CPU, GPU, memory, storage, and network; unmaintained since 2020. (blog post)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 257952840,
+                    "language": "TSQL",
+                    "last_commit": "2022-01-28T17:25:06Z",
+                    "owner": "etsy",
+                    "repo": "cloud-jewels",
+                    "stars": 103
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cloud — Google"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "kube-green",
                   "description": "An open-source Kubernetes addon that automatically shuts down selected resources when you do not need them.",
                   "children": [],
@@ -123,7 +167,7 @@
                     "last_commit": "2026-08-19T03:04:08Z",
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1369
+                    "stars": 1368
                   }
                 },
                 {
@@ -287,7 +331,7 @@
                     "last_commit": "2026-04-14T07:17:25Z",
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
-                    "stars": 588
+                    "stars": 589
                   }
                 },
                 {
@@ -471,6 +515,72 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "GreenIT-Analysis",
+                  "description": "A DevTools extension measuring a website's ecoIndex and verifying the web eco-design best practices defined by the Collectif Numérique Responsable.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 163327107,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-05T13:54:53Z",
+                    "owner": "cnumr",
+                    "repo": "GreenIT-Analysis",
+                    "stars": 161
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General Purpose — Extensions"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "PowDroid",
+                  "description": "A GPL-3.0 off-device Android energy profiler, written in Go and Python, deriving energy metrics from a device trace via CLI or GUI.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 771625184,
+                    "language": "Go",
+                    "last_commit": "2025-11-23T21:31:30Z",
+                    "owner": "powdroid-project",
+                    "repo": "powdroid",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OS — Android"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "creedengo-ios",
+                  "description": "A SonarQube plugin highlighting code structures in iOS projects that may have a negative ecological impact.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631686927,
+                    "language": "Java",
+                    "last_commit": "2026-05-19T16:53:00Z",
+                    "owner": "green-code-initiative",
+                    "repo": "creedengo-ios",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OS — iOS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "ipmitool",
                   "description": "Reads the power consumption of a bare metal machine through DCMI, the IPMI extension.",
                   "children": [],
@@ -518,6 +628,28 @@
               "description": null,
               "node_type": "group",
               "title": "OS — Linux"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "WedeexApp",
+                  "description": "An MIT-licensed UWP sample app in C# demonstrating the Wedeex API by showing real-time French grid CO2 intensity and Microsoft Surface power draw. (blog post)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 335992790,
+                    "language": "C#",
+                    "last_commit": "2021-02-12T20:14:52Z",
+                    "owner": "Wedeex-DevTeam",
+                    "repo": "WedeexApp",
+                    "stars": 6
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OS — Windows"
             },
             {
               "children": [
@@ -575,13 +707,64 @@
           "description": null,
           "node_type": "group",
           "title": "Tooling"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Architectural Tactics to Optimize Software for Energy Efficiency in the Public Cloud",
+                  "description": "Interviews with 17 practitioners produced a reusable model of architectural tactics for cloud energy efficiency, though provider opacity still prevents straightforward energy-aware design decisions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 406320188,
+                    "language": null,
+                    "last_commit": "2021-09-14T10:24:01Z",
+                    "owner": "so-vos",
+                    "repo": "thesis",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Data Centers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Research"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome AI Tokenomics",
+              "description": "Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1304407094,
+                "language": "Python",
+                "last_commit": "2026-08-22T20:56:30Z",
+                "owner": "QuesmaOrg",
+                "repo": "awesome-ai-tokenomics",
+                "stars": 156
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Related Lists"
         }
       ],
       "title": "Disclaimer"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:18:48.191Z",
+    "last_updated": "2026-08-24T14:19:55.197Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_id": 387275735,
     "original_repository_sha": "328b1a5cef833b87b371eff23f4d7eadb7129266",
