@@ -71,8 +71,8 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### Cloud — Multicloud
 
-* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,368 | 🐛 54 | 🌐 Go | 📅 2026-08-19 - An open-source Kubernetes addon that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Carbonifer](https://github.com/carboniferio/carbonifer) ⭐ 104 | 🐛 15 | 🌐 Go | 📅 2024-07-13 - A command line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,368 | 🐛 54 | 🌐 Go | 📅 2026-08-19 - An open-source Kubernetes add-on that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Carbonifer](https://github.com/carboniferio/carbonifer) ⭐ 104 | 🐛 15 | 🌐 Go | 📅 2024-07-13 - A command-line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open-source cloud energy and carbon emissions measurement tool spanning AWS, Azure, and GCP. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of a software architecture. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
@@ -80,7 +80,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 * [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner) ⭐ 413 | 🐛 16 | 🌐 Python | 📅 2026-08-21 - An auto-tuner capable of [optimizing GPU code for energy efficiency](https://github.com/KernelTuner/kernel_tuner/blob/master/examples/cuda/going_green_performance_model.py) ⭐ 413 | 🐛 16 | 🌐 Python | 📅 2026-08-21. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Creedengo (formerly ecoCode)](https://github.com/green-code-initiative/creedengo-rules-specifications) ⭐ 212 | 🐛 65 | 🌐 Java | 📅 2026-08-16 - SonarQube plugins for PHP, Python, Java, JavaScript, and more, providing static analyzers that highlight code structures with a negative ecological impact. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Tracarbon](https://github.com/fvaleye/tracarbon) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2026-08-25 - Tracks a device's energy consumption and calculates carbon emissions using your location. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Tracarbon](https://github.com/fvaleye/tracarbon) ⭐ 110 | 🐛 6 | 🌐 Python | 📅 2026-08-26 - Tracks a device's energy consumption and calculates carbon emissions using your location. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [JoularJX](https://github.com/joular/joularjx) ⭐ 95 | 🐛 5 | 🌐 Java | 📅 2026-02-19 - Java software power monitoring at the source code level, in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [energy-consumption-measuring-toolkit](https://github.com/Accenture/energy-consumption-measuring-toolkit) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-02 - Accenture's RAPL-based toolkit for measuring the energy consumption of Python applications. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [CarbonLint](https://github.com/nishal21/CarbonLint) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-01 - An MIT-licensed Tauri/Rust desktop app and npm CLI that tracks CPU, memory, disk, network, and GPU use, converts it to CO2 via regional grid intensity, and scores projects 0-100. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -95,6 +95,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 * [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) ⭐ 589 | 🐛 2 | 🌐 HTML | 📅 2026-08-25 - A Web API and command line for unified forecast and historical power grid emissions data by location and time, to help build carbon-aware software. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon Aware Computing — Tools and Free Forecast Data](https://github.com/bluehands/Carbon-Aware-Computing) ⭐ 45 | 🐛 0 | 🌐 C# | 📅 2026-02-20 - A NuGet package, PowerShell cmdlets, and a live SDK instance, plus an open carbon forecast for Europe in the Carbon Aware SDK's JSON format. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Compute Gardener Scheduler](https://github.com/elevated-systems/compute-gardener-scheduler) ⭐ 23 | 🐛 22 | 🌐 Go | 📅 2026-08-21 An open-source Kubernetes scheduler plugin that simplifies both time and location shifting of flexible compute workloads to lower-carbon or cheaper grid hours, using real-time carbon intensity data and time-of-use prices, with workload energy budgets, Kepler power metrics, and a dry-run admission webhook to evaluate savings.
 * [GreenScheduled](https://github.com/carbonintensityio/green-scheduler) ⭐ 15 | 🐛 21 | 🌐 Java | 📅 2026-08-18 - An Apache-2.0 Java library adding a `@GreenScheduled` annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon Aware Computing Hangfire Extension](https://github.com/bluehands/Hangfire.Community.CarbonAwareExecution) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2025-10-10 - A Hangfire extension that schedules tasks into the window of minimal grid carbon intensity, based on emission forecasts. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PSElectricityMaps](https://github.com/cloudyspells/PSElectricityMaps) ⭐ 10 | 🐛 1 | 🌐 PowerShell | 📅 2023-09-04 - A PowerShell module for retrieving current power grid carbon emissions data with a free Electricity Maps or CO2signal account. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -103,14 +104,15 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### General Purpose — Energy
 
-* [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,964 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,560 | 🐛 50 | 🌐 Go | 📅 2026-08-25 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,963 | 🐛 93 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare-metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,560 | 🐛 49 | 🌐 Go | 📅 2026-08-26 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerJoular](https://github.com/joular/powerjoular) ⭐ 117 | 🐛 10 | 🌐 Ada | 📅 2026-02-13 - Monitors the power consumption of software and hardware components in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation) ⭐ 115 | 🐛 4 | 🌐 Shell | 📅 2026-08-02 - A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Vessim](https://vessim.readthedocs.io/en/latest/) - A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. ([source](https://github.com/dos-group/vessim) ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2026-06-10) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation) ⭐ 116 | 🐛 4 | 🌐 Shell | 📅 2026-08-02 - A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Vessim](https://vessim.readthedocs.io/en/latest/) - A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. ([source](https://github.com/dos-group/vessim) ⭐ 91 | 🐛 1 | 🌐 Python | 📅 2026-08-26) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [CEEMS](https://ceems-dev.github.io/ceems/) - The Compute Energy and Emissions Monitoring Stack: energy and equivalent emissions alongside performance, I/O, and network metrics for SLURM, OpenStack, and Kubernetes workloads. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [CO2Scope](https://www.easyvirt.com/en/co2scope-reduce-the-carbon-footprint-of-it-services/) - A commercial solution monitoring the real-time CO2 emissions of IT services, virtual machines, and servers. ![co](https://img.shields.io/badge/co-555?style=flat-square)
 * [Energy Rebate Calculator](https://energyrebatecalculator.com/) - A consumer-facing US home energy rebate finder covering HOMES and HEAR programs, heat pumps, and insulation tax credits. *Flagged for review: unrelated to green software engineering.* ![co](https://img.shields.io/badge/co-555?style=flat-square)
+* [Joule Profiler](https://joule-profiler.github.io) - Joule Profiler is a tool for measuring program metrics from various sources, such as RAPL, perf\_event or NVML, with a focus on energy consumption. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### General Purpose — Extensions
 
@@ -128,16 +130,16 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### OS — Linux
 
-* [ipmitool](https://github.com/ipmitool/ipmitool) ⚠️ Archived - Reads the power consumption of a bare metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [ipmitool](https://github.com/ipmitool/ipmitool) ⚠️ Archived - Reads the power consumption of a bare-metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerTOP](https://github.com/fenrus75/powertop) ⭐ 1,331 | 🐛 102 | 🌐 C++ | 📅 2026-08-18 - A Linux tool to diagnose issues with power consumption and power management. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [turbostress](https://github.com/teads/turbostress) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2021-03-31 - Generates load on a machine and outputs the computer's power metrics for that load. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [FreeIPMI](https://www.gnu.org/software/freeipmi/) - Reads the power consumption of a bare metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [FreeIPMI](https://www.gnu.org/software/freeipmi/) - Reads the power consumption of a bare-metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerAPI](https://powerapi.org) - A Linux software-defined power meter estimating process-scale power consumption in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### OS — Windows
 
 * [WedeexApp](https://github.com/Wedeex-DevTeam/WedeexApp) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2021-02-12 - An MIT-licensed UWP sample app in C# demonstrating the Wedeex API by showing real-time French grid CO2 intensity and Microsoft Surface power draw. ([blog post](https://devblogs.microsoft.com/sustainable-software/we-need-a-yuka-for-electricity-to-ease-the-energy-transition/)) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [powercfg](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options) - A built-in Windows command line tool whose `/energy`, `/batteryreport`, and `/sleepstudy` switches produce HTML or XML reports on energy-efficiency problems, battery wear, and modern-standby quality. ([blog post](https://devblogs.microsoft.com/sustainable-software/measuring-your-application-power-and-carbon-impact-part-1/)) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [powercfg](https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/powercfg-command-line-options) - A built-in Windows command-line tool whose `/energy`, `/batteryreport`, and `/sleepstudy` switches produce HTML or XML reports on energy-efficiency problems, battery wear, and modern-standby quality. ([blog post](https://devblogs.microsoft.com/sustainable-software/measuring-your-application-power-and-carbon-impact-part-1/)) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### Web
 
@@ -173,7 +175,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 * [Curso de Desarrollo de software medioambientalmente sostenible](https://www.adrformacion.com/cursos/greensoft/greensoft.html) - A paid 20-hour online Spanish-language course from ADR Formación covering data-centre footprints, green coding, carbon measurement, and nine practical exercises. ![course](https://img.shields.io/badge/course-555?style=flat-square)
 * [Harvard ENVR S-186: Enabling a Sustainable Digital Transformation](https://coursebrowser.dce.harvard.edu/course/enabling-a-sustainable-digital-transformation/) - A course taught online, covering digital carbon footprints, sustainable digital transformation, and digital justice. ![course](https://img.shields.io/badge/course-555?style=flat-square)
-* [MOOC Numérique Responsable](https://gridboy.github.io/MOOC-Numerique-Responsable/) - A free, CC0-licensed catalogue aggregating French-language courses on responsible digital practices, green IT, and responsible AI. ![course](https://img.shields.io/badge/course-555?style=flat-square)
+* [MOOC Numérique Responsable](https://gridboy.github.io/MOOC-Numerique-Responsable/) - A free, CC0-licensed catalog aggregating French-language courses on responsible digital practices, green IT, and responsible AI. ![course](https://img.shields.io/badge/course-555?style=flat-square)
 * [Sustainable Software Engineering by openHPI](https://open.hpi.de/courses/sustainablesoftware2022) - A free two-week self-paced MOOC from the Hasso Plattner Institute on resource-efficient software development, aimed at developers and architects. ![course](https://img.shields.io/badge/course-555?style=flat-square)
 * [The Principles of Sustainable Software Engineering](https://learn.microsoft.com/training/modules/sustainable-software-engineering-overview/) - Microsoft's free beginner-level Learn module covering the six principles of sustainable software engineering across ten self-paced units with an assessment. ![course](https://img.shields.io/badge/course-555?style=flat-square)
 
@@ -344,4 +346,4 @@ For any inquiries or support, please reach out to <ags@digitalemissions.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

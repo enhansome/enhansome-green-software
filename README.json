@@ -158,7 +158,7 @@
                 {
                   "node_type": "item",
                   "title": "kube-green",
-                  "description": "An open-source Kubernetes addon that automatically shuts down selected resources when you do not need them.",
+                  "description": "An open-source Kubernetes add-on that automatically shuts down selected resources when you do not need them.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -173,7 +173,7 @@
                 {
                   "node_type": "item",
                   "title": "Carbonifer",
-                  "description": "A command line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned.",
+                  "description": "A command-line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -231,7 +231,7 @@
                     "archived": false,
                     "id": 468889604,
                     "language": "Python",
-                    "last_commit": "2026-08-25T15:51:27Z",
+                    "last_commit": "2026-08-26T18:22:32Z",
                     "owner": "fvaleye",
                     "repo": "tracarbon",
                     "stars": 110
@@ -351,6 +351,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Compute Gardener Scheduler",
+                  "description": "An open-source Kubernetes scheduler plugin that simplifies both time and location shifting of flexible compute workloads to lower-carbon or cheaper grid hours, using real-time carbon intensity data and time-of-use prices, with workload energy budgets, Kepler power metrics, and a dry-run admission webhook to evaluate savings.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 940122327,
+                    "language": "Go",
+                    "last_commit": "2026-08-21T22:27:51Z",
+                    "owner": "elevated-systems",
+                    "repo": "compute-gardener-scheduler",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "GreenScheduled",
                   "description": "An Apache-2.0 Java library adding a annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API.",
                   "children": [],
@@ -434,7 +449,7 @@
                 {
                   "node_type": "item",
                   "title": "scaphandre",
-                  "description": "Power measurement for bare metal hosts, Prometheus, and workloads inside Docker containers.",
+                  "description": "Power measurement for bare-metal hosts, Prometheus, and workloads inside Docker containers.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -443,7 +458,7 @@
                     "last_commit": "2026-07-19T18:33:40Z",
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1964
+                    "stars": 1963
                   }
                 },
                 {
@@ -455,7 +470,7 @@
                     "archived": false,
                     "id": 454528656,
                     "language": "Go",
-                    "last_commit": "2026-08-25T09:34:30Z",
+                    "last_commit": "2026-08-26T08:36:26Z",
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1560
@@ -488,7 +503,7 @@
                     "last_commit": "2026-08-02T07:50:45Z",
                     "owner": "green-coding-solutions",
                     "repo": "eco-ci-energy-estimation",
-                    "stars": 115
+                    "stars": 116
                   }
                 },
                 {
@@ -500,10 +515,10 @@
                     "archived": false,
                     "id": 603417933,
                     "language": "Python",
-                    "last_commit": "2026-06-10T10:44:50Z",
+                    "last_commit": "2026-08-26T13:10:07Z",
                     "owner": "dos-group",
                     "repo": "vessim",
-                    "stars": 90
+                    "stars": 91
                   }
                 }
               ],
@@ -582,7 +597,7 @@
                 {
                   "node_type": "item",
                   "title": "ipmitool",
-                  "description": "Reads the power consumption of a bare metal machine through DCMI, the IPMI extension.",
+                  "description": "Reads the power consumption of a bare-metal machine through DCMI, the IPMI extension.",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -764,10 +779,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:27:23.513Z",
+    "last_updated": "2026-08-26T21:35:42.267Z",
     "original_repository": "Green-Software-Foundation/awesome-green-software",
     "original_repository_id": 387275735,
-    "original_repository_sha": "328b1a5cef833b87b371eff23f4d7eadb7129266",
+    "original_repository_sha": "117687d14d5b556dbc92a8e452c283faa55a39bc",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
     "title": "Awesome Green Software with stars"
