@@ -83,7 +83,7 @@
                     "archived": false,
                     "id": 257581525,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:53:48Z",
+                    "last_commit": "2026-08-27T11:21:01Z",
                     "owner": "saintslab",
                     "repo": "carbontracker",
                     "stars": 481
@@ -216,7 +216,7 @@
                     "archived": false,
                     "id": 571790951,
                     "language": "Java",
-                    "last_commit": "2026-08-16T20:33:05Z",
+                    "last_commit": "2026-08-27T07:20:03Z",
                     "owner": "green-code-initiative",
                     "repo": "creedengo-rules-specifications",
                     "stars": 212
@@ -470,7 +470,7 @@
                     "archived": false,
                     "id": 454528656,
                     "language": "Go",
-                    "last_commit": "2026-08-26T08:36:26Z",
+                    "last_commit": "2026-08-27T09:10:36Z",
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1560
@@ -763,7 +763,7 @@
                 "archived": false,
                 "id": 1304407094,
                 "language": "Python",
-                "last_commit": "2026-08-22T20:56:30Z",
+                "last_commit": "2026-08-27T11:23:15Z",
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
                 "stars": 157
@@ -779,9 +779,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:35:42.267Z",
-    "original_repository": "Green-Software-Foundation/awesome-green-software",
-    "original_repository_id": 387275735,
+    "last_updated": "2026-08-27T11:41:55.297Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 387275735,
+      "language": "TypeScript",
+      "last_commit": "2026-08-26T19:29:36Z",
+      "owner": "Green-Software-Foundation",
+      "repo": "awesome-green-software",
+      "stars": 693
+    },
     "original_repository_sha": "117687d14d5b556dbc92a8e452c283faa55a39bc",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
