@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-24T10:33:08Z",
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 164
+                    "stars": 165
                   }
                 },
                 {
@@ -83,7 +83,7 @@
                     "archived": false,
                     "id": 257581525,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:21:01Z",
+                    "last_commit": "2026-08-27T14:24:19Z",
                     "owner": "saintslab",
                     "repo": "carbontracker",
                     "stars": 481
@@ -231,7 +231,7 @@
                     "archived": false,
                     "id": 468889604,
                     "language": "Python",
-                    "last_commit": "2026-08-26T18:22:32Z",
+                    "last_commit": "2026-08-27T18:17:01Z",
                     "owner": "fvaleye",
                     "repo": "tracarbon",
                     "stars": 110
@@ -331,7 +331,7 @@
                     "last_commit": "2026-08-25T10:50:45Z",
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
-                    "stars": 589
+                    "stars": 590
                   }
                 },
                 {
@@ -358,7 +358,7 @@
                     "archived": false,
                     "id": 940122327,
                     "language": "Go",
-                    "last_commit": "2026-08-21T22:27:51Z",
+                    "last_commit": "2026-08-27T16:35:10Z",
                     "owner": "elevated-systems",
                     "repo": "compute-gardener-scheduler",
                     "stars": 23
@@ -766,7 +766,7 @@
                 "last_commit": "2026-08-27T11:23:15Z",
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 157
+                "stars": 159
               }
             }
           ],
@@ -779,7 +779,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:41:55.297Z",
+    "last_updated": "2026-08-28T02:24:28.979Z",
     "original_repository_info": {
       "archived": false,
       "id": 387275735,
