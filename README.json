@@ -20,7 +20,8 @@
                     "owner": "Breakend",
                     "repo": "experiment-impact-tracker",
                     "stars": 293
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2026-08-24T10:33:08Z",
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 165
-                  }
+                    "stars": 166
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "axiomaxllc",
                     "repo": "esg-carbon-shield",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "Vitalini",
                     "repo": "ebb-ai",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -87,7 +91,8 @@
                     "owner": "saintslab",
                     "repo": "carbontracker",
                     "stars": 481
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -102,7 +107,8 @@
                     "owner": "dos-group",
                     "repo": "fedzero",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -124,7 +130,8 @@
                     "owner": "thegreenwebfoundation",
                     "repo": "green-cost-explorer",
                     "stars": 178
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -146,7 +153,8 @@
                     "owner": "etsy",
                     "repo": "cloud-jewels",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -167,8 +175,9 @@
                     "last_commit": "2026-08-19T03:04:08Z",
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1368
-                  }
+                    "stars": 1369
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -183,7 +192,8 @@
                     "owner": "carboniferio",
                     "repo": "carbonifer",
                     "stars": 104
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -205,7 +215,8 @@
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 413
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -216,11 +227,12 @@
                     "archived": false,
                     "id": 571790951,
                     "language": "Java",
-                    "last_commit": "2026-08-27T07:20:03Z",
+                    "last_commit": "2026-08-28T09:57:37Z",
                     "owner": "green-code-initiative",
                     "repo": "creedengo-rules-specifications",
-                    "stars": 212
-                  }
+                    "stars": 214
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -231,11 +243,12 @@
                     "archived": false,
                     "id": 468889604,
                     "language": "Python",
-                    "last_commit": "2026-08-27T18:17:01Z",
+                    "last_commit": "2026-08-28T15:33:18Z",
                     "owner": "fvaleye",
                     "repo": "tracarbon",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -249,8 +262,9 @@
                     "last_commit": "2026-02-19T21:56:20Z",
                     "owner": "joular",
                     "repo": "joularjx",
-                    "stars": 95
-                  }
+                    "stars": 96
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -265,7 +279,8 @@
                     "owner": "Accenture",
                     "repo": "energy-consumption-measuring-toolkit",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -280,7 +295,8 @@
                     "owner": "nishal21",
                     "repo": "CarbonLint",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -295,7 +311,8 @@
                     "owner": "ShayokhShorfuddin",
                     "repo": "carbon-text",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -310,7 +327,8 @@
                     "owner": "green-code-initiative",
                     "repo": "green-codeql-queries",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -332,7 +350,8 @@
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
                     "stars": 590
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +366,8 @@
                     "owner": "bluehands",
                     "repo": "Carbon-Aware-Computing",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +382,8 @@
                     "owner": "elevated-systems",
                     "repo": "compute-gardener-scheduler",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -373,11 +394,12 @@
                     "archived": false,
                     "id": 945923315,
                     "language": "Java",
-                    "last_commit": "2026-08-18T07:34:30Z",
+                    "last_commit": "2026-08-29T00:24:16Z",
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -392,7 +414,8 @@
                     "owner": "bluehands",
                     "repo": "Hangfire.Community.CarbonAwareExecution",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -407,7 +430,8 @@
                     "owner": "cloudyspells",
                     "repo": "PSElectricityMaps",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -422,7 +446,8 @@
                     "owner": "cloudyspells",
                     "repo": "carbon-appinsights",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -437,7 +462,8 @@
                     "owner": "cloudyspells",
                     "repo": "PSWattTime",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -458,8 +484,9 @@
                     "last_commit": "2026-07-19T18:33:40Z",
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1963
-                  }
+                    "stars": 1964
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -474,7 +501,8 @@
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1560
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -489,7 +517,8 @@
                     "owner": "joular",
                     "repo": "powerjoular",
                     "stars": 117
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -504,7 +533,8 @@
                     "owner": "green-coding-solutions",
                     "repo": "eco-ci-energy-estimation",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -519,7 +549,8 @@
                     "owner": "dos-group",
                     "repo": "vessim",
                     "stars": 91
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -541,7 +572,8 @@
                     "owner": "cnumr",
                     "repo": "GreenIT-Analysis",
                     "stars": 161
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -563,7 +595,8 @@
                     "owner": "powdroid-project",
                     "repo": "powdroid",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -585,7 +618,8 @@
                     "owner": "green-code-initiative",
                     "repo": "creedengo-ios",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -607,7 +641,8 @@
                     "owner": "ipmitool",
                     "repo": "ipmitool",
                     "stars": 1642
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -622,7 +657,8 @@
                     "owner": "fenrus75",
                     "repo": "powertop",
                     "stars": 1331
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -637,7 +673,8 @@
                     "owner": "teads",
                     "repo": "turbostress",
                     "stars": 27
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -659,7 +696,8 @@
                     "owner": "Wedeex-DevTeam",
                     "repo": "WedeexApp",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -681,7 +719,8 @@
                     "owner": "thegreenwebfoundation",
                     "repo": "co2.js",
                     "stars": 491
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -696,7 +735,8 @@
                     "owner": "ec0lint",
                     "repo": "ec0lint",
                     "stars": 160
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 },
                 {
                   "node_type": "item",
@@ -711,7 +751,8 @@
                     "owner": "digital4better",
                     "repo": "carbonara",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -740,7 +781,8 @@
                     "owner": "so-vos",
                     "repo": "thesis",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
                 }
               ],
               "description": null,
@@ -763,11 +805,12 @@
                 "archived": false,
                 "id": 1304407094,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:23:15Z",
+                "last_commit": "2026-08-28T08:21:00Z",
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-29T01:58:13.608Z"
             }
           ],
           "description": null,
@@ -779,7 +822,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:24:28.979Z",
+    "last_updated": "2026-08-29T01:58:13.608Z",
     "original_repository_info": {
       "archived": false,
       "id": 387275735,
