@@ -632,8 +632,8 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T00:24:16Z",
-                    "open_issues": 25,
+                    "last_commit": "2026-08-29T13:49:44Z",
+                    "open_issues": 27,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 15,
@@ -789,7 +789,7 @@
                     "open_issues": 93,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1964,
+                    "stars": 1965,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:17.236Z",
+    "last_updated": "2026-08-29T21:29:14.572Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
