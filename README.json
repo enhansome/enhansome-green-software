@@ -373,8 +373,8 @@
                     "id": 571790951,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-28T09:57:37Z",
-                    "open_issues": 62,
+                    "last_commit": "2026-08-30T20:32:40Z",
+                    "open_issues": 63,
                     "owner": "green-code-initiative",
                     "repo": "creedengo-rules-specifications",
                     "stars": 214,
@@ -404,7 +404,7 @@
                     "id": 468889604,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T15:33:18Z",
+                    "last_commit": "2026-08-30T17:55:39Z",
                     "open_issues": 6,
                     "owner": "fvaleye",
                     "repo": "tracarbon",
@@ -436,7 +436,7 @@
                     "open_issues": 5,
                     "owner": "joular",
                     "repo": "joularjx",
-                    "stars": 96,
+                    "stars": 97,
                     "topics": [
                       "energy",
                       "green",
@@ -632,8 +632,8 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T13:49:44Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-08-29T22:46:30Z",
+                    "open_issues": 29,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 15,
@@ -789,7 +789,7 @@
                     "open_issues": 93,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1965,
+                    "stars": 1967,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -1087,7 +1087,7 @@
                     "open_issues": 102,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1331,
+                    "stars": 1332,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1327,7 +1327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:29:14.572Z",
+    "last_updated": "2026-08-30T21:49:37.275Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
