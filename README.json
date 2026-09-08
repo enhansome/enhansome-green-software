@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 190,
+                    "stars": 191,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -338,8 +338,8 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-21T10:56:57Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-09-08T13:44:14Z",
+                    "open_issues": 15,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 413,
@@ -411,7 +411,7 @@
                     "open_issues": 3,
                     "owner": "fvaleye",
                     "repo": "tracarbon",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "carbon-footprint",
                       "electricity-consumption",
@@ -597,7 +597,7 @@
                     "open_issues": 0,
                     "owner": "bluehands",
                     "repo": "Carbon-Aware-Computing",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -635,8 +635,8 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T09:57:56Z",
-                    "open_issues": 24,
+                    "last_commit": "2026-09-07T23:04:01Z",
+                    "open_issues": 25,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 17,
@@ -792,7 +792,7 @@
                     "open_issues": 93,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1968,
+                    "stars": 1969,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -830,11 +830,11 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": null,
-                    "last_commit": "2026-09-07T18:23:49Z",
-                    "open_issues": 49,
+                    "last_commit": "2026-09-08T00:24:36Z",
+                    "open_issues": 48,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1564,
+                    "stars": 1565,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -893,7 +893,7 @@
                     "id": 350253423,
                     "language": "Ada",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-05T08:22:24Z",
+                    "last_commit": "2026-09-08T15:06:04Z",
                     "open_issues": 6,
                     "owner": "joular",
                     "repo": "powerjoular",
@@ -1093,7 +1093,7 @@
                     "open_issues": 105,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1335,
+                    "stars": 1334,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1167,7 +1167,7 @@
                     "language": "JavaScript",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-03T01:14:38Z",
-                    "open_issues": 28,
+                    "open_issues": 27,
                     "owner": "thegreenwebfoundation",
                     "repo": "co2.js",
                     "stars": 494,
@@ -1293,11 +1293,11 @@
                 "id": 1304407094,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-06T11:36:12Z",
+                "last_commit": "2026-09-08T19:05:21Z",
                 "open_issues": 2,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 167,
+                "stars": 169,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1333,7 +1333,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:53:00.350Z",
+    "last_updated": "2026-09-08T21:32:27.245Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
