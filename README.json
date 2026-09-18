@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 195,
+                    "stars": 196,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -162,7 +162,7 @@
                     "open_issues": 12,
                     "owner": "saintslab",
                     "repo": "carbontracker",
-                    "stars": 481,
+                    "stars": 483,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -274,7 +274,7 @@
                     "open_issues": 55,
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1374,
+                    "stars": 1376,
                     "topics": [
                       "climate-change",
                       "cloud-native",
@@ -341,7 +341,7 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T14:36:00Z",
+                    "last_commit": "2026-09-18T10:55:13Z",
                     "open_issues": 18,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
@@ -638,8 +638,8 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T14:01:32Z",
-                    "open_issues": 30,
+                    "last_commit": "2026-09-18T03:30:58Z",
+                    "open_issues": 31,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 17,
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:52:13.004Z",
+    "last_updated": "2026-09-18T21:23:43.198Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
