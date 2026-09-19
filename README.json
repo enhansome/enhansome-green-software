@@ -345,7 +345,7 @@
                     "open_issues": 18,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
-                    "stars": 417,
+                    "stars": 418,
                     "topics": [
                       "auto-tuning",
                       "autotuning",
@@ -638,7 +638,7 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T03:30:58Z",
+                    "last_commit": "2026-09-19T02:32:51Z",
                     "open_issues": 31,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
@@ -792,7 +792,7 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-19T18:33:40Z",
-                    "open_issues": 97,
+                    "open_issues": 101,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
                     "stars": 1973,
@@ -834,7 +834,7 @@
                     "language": "Go",
                     "license": null,
                     "last_commit": "2026-09-16T09:25:59Z",
-                    "open_issues": 42,
+                    "open_issues": 41,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1567,
@@ -1300,7 +1300,7 @@
                 "open_issues": 1,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 183,
+                "stars": 184,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:23:43.198Z",
+    "last_updated": "2026-09-19T21:14:13.023Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
