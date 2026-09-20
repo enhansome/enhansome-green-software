@@ -71,7 +71,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### Cloud — Multicloud
 
-* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,376 | 🐛 55 | 🌐 Go | 📅 2026-09-02 - An open-source Kubernetes add-on that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,376 | 🐛 56 | 🌐 Go | 📅 2026-09-02 - An open-source Kubernetes add-on that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbonifer](https://github.com/carboniferio/carbonifer) ⭐ 104 | 🐛 15 | 🌐 Go | 📅 2024-07-13 - A command-line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open-source cloud energy and carbon emissions measurement tool spanning AWS, Azure, and GCP. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of a software architecture. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -79,7 +79,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 ### Code-Based
 
 * [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner) ⭐ 418 | 🐛 18 | 🌐 Python | 📅 2026-09-18 - An auto-tuner capable of [optimizing GPU code for energy efficiency](https://github.com/KernelTuner/kernel_tuner/blob/master/examples/cuda/going_green_performance_model.py) ⭐ 418 | 🐛 18 | 🌐 Python | 📅 2026-09-18. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Creedengo (formerly ecoCode)](https://github.com/green-code-initiative/creedengo-rules-specifications) ⭐ 216 | 🐛 64 | 🌐 Java | 📅 2026-09-13 - SonarQube plugins for PHP, Python, Java, JavaScript, and more, providing static analyzers that highlight code structures with a negative ecological impact. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Creedengo (formerly ecoCode)](https://github.com/green-code-initiative/creedengo-rules-specifications) ⭐ 216 | 🐛 67 | 🌐 Java | 📅 2026-09-20 - SonarQube plugins for PHP, Python, Java, JavaScript, and more, providing static analyzers that highlight code structures with a negative ecological impact. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Tracarbon](https://github.com/fvaleye/tracarbon) ⭐ 111 | 🐛 3 | 🌐 Python | 📅 2026-09-07 - Tracks a device's energy consumption and calculates carbon emissions using your location. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [JoularJX](https://github.com/joular/joularjx) ⭐ 96 | 🐛 5 | 🌐 Java | 📅 2026-02-19 - Java software power monitoring at the source code level, in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [energy-consumption-measuring-toolkit](https://github.com/Accenture/energy-consumption-measuring-toolkit) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-02 - Accenture's RAPL-based toolkit for measuring the energy consumption of Python applications. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -96,7 +96,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 * [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) ⭐ 594 | 🐛 2 | 🌐 HTML | 📅 2026-08-25 - A Web API and command line for unified forecast and historical power grid emissions data by location and time, to help build carbon-aware software. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon Aware Computing — Tools and Free Forecast Data](https://github.com/bluehands/Carbon-Aware-Computing) ⭐ 46 | 🐛 0 | 🌐 C# | 📅 2026-02-20 - A NuGet package, PowerShell cmdlets, and a live SDK instance, plus an open carbon forecast for Europe in the Carbon Aware SDK's JSON format. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Compute Gardener Scheduler](https://github.com/elevated-systems/compute-gardener-scheduler) ⭐ 25 | 🐛 23 | 🌐 Go | 📅 2026-08-27 An open-source Kubernetes scheduler plugin that simplifies both time and location shifting of flexible compute workloads to lower-carbon or cheaper grid hours, using real-time carbon intensity data and time-of-use prices, with workload energy budgets, Kepler power metrics, and a dry-run admission webhook to evaluate savings.
-* [GreenScheduled](https://github.com/carbonintensityio/green-scheduler) ⭐ 17 | 🐛 31 | 🌐 Java | 📅 2026-09-19 - An Apache-2.0 Java library adding a `@GreenScheduled` annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [GreenScheduled](https://github.com/carbonintensityio/green-scheduler) ⭐ 17 | 🐛 30 | 🌐 Java | 📅 2026-09-20 - An Apache-2.0 Java library adding a `@GreenScheduled` annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon Aware Computing Hangfire Extension](https://github.com/bluehands/Hangfire.Community.CarbonAwareExecution) ⭐ 11 | 🐛 0 | 🌐 C# | 📅 2025-10-10 - A Hangfire extension that schedules tasks into the window of minimal grid carbon intensity, based on emission forecasts. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PSElectricityMaps](https://github.com/cloudyspells/PSElectricityMaps) ⭐ 10 | 🐛 1 | 🌐 PowerShell | 📅 2023-09-04 - A PowerShell module for retrieving current power grid carbon emissions data with a free Electricity Maps or CO2signal account. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon AppInsights](https://github.com/cloudyspells/carbon-appinsights) ⭐ 9 | 🐛 0 | 🌐 Bicep | 📅 2023-04-30 - An Azure Functions solution logging Electricity Maps emissions data for Azure regions into Azure Monitor for alerting triggers and automated actions. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -303,7 +303,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ## Related Lists
 
-* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-09-14 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
+* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 184 | 🐛 2 | 🌐 Python | 📅 2026-09-14 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
 
 ***
 
@@ -346,4 +346,4 @@ For any inquiries or support, please reach out to <ags@digitalemissions.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
