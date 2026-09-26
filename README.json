@@ -834,7 +834,7 @@
                     "language": "Go",
                     "license": null,
                     "last_commit": "2026-09-22T12:40:19Z",
-                    "open_issues": 44,
+                    "open_issues": 45,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1570,
@@ -1201,7 +1201,7 @@
                     "open_issues": 0,
                     "owner": "ec0lint",
                     "repo": "ec0lint",
-                    "stars": 161,
+                    "stars": 160,
                     "topics": [
                       "css",
                       "digital-ecology",
@@ -1336,7 +1336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T21:57:03.907Z",
+    "last_updated": "2026-09-26T21:45:30.484Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
