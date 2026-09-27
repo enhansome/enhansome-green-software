@@ -213,7 +213,7 @@
                     "language": "JavaScript",
                     "license": "Apache-2.0",
                     "last_commit": "2023-01-04T06:30:45Z",
-                    "open_issues": 23,
+                    "open_issues": 22,
                     "owner": "thegreenwebfoundation",
                     "repo": "green-cost-explorer",
                     "stars": 178,
@@ -531,6 +531,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "carbon-badge",
+                  "description": "GitHub Action that sums 30 days of CI energy use and publishes the repo's carbon footprint as a Shields.io README badge, marked with how the figure was derived.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "GitHub Action that measures the CO₂ footprint of a CI workflow run and posts a green/amber/red badge to your README.",
+                    "homepage": "https://fabiocicerchia.github.io/carbon-badge/",
+                    "id": 1299156354,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-27T13:59:30Z",
+                    "open_issues": 3,
+                    "owner": "fabiocicerchia",
+                    "repo": "carbon-badge",
+                    "stars": 1,
+                    "topics": [
+                      "carbon",
+                      "co2",
+                      "github-actions",
+                      "green-software",
+                      "greenops",
+                      "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-09-27T21:49:20.651Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Green CodeQL",
                   "description": "A GPL-3.0 collection of custom CodeQL queries flagging energy-related sustainability issues across six packs covering Java/Kotlin, Python, C/C++, JavaScript, C#, and GitHub Actions.",
                   "children": [],
@@ -555,6 +583,63 @@
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "carbon-budget-action",
+                  "description": "GitHub Action that fails a PR when its estimated carbon cost exceeds a configurable budget.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "GitHub Action that fails a PR when its estimated carbon cost exceeds a configurable budget. Carbon as a first-class CI gate.",
+                    "homepage": "https://fabiocicerchia.github.io/carbon-budget-action/",
+                    "id": 1299157229,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-27T14:08:59Z",
+                    "open_issues": 2,
+                    "owner": "fabiocicerchia",
+                    "repo": "carbon-budget-action",
+                    "stars": 0,
+                    "topics": [
+                      "budget",
+                      "carbon",
+                      "co2",
+                      "github-actions",
+                      "greenops",
+                      "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-09-27T21:49:20.651Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Greenlint",
+                  "description": "Static linter for carbon-inefficient patterns in code and CI: oversized images, missing caches, wasted compute.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Static linter for carbon-inefficient patterns in code and CI — flags unnecessary compute, oversized containers, missing cache directives, and more.",
+                    "homepage": "https://fabiocicerchia.github.io/greenlint/",
+                    "id": 1299157345,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-27T13:42:02Z",
+                    "open_issues": 1,
+                    "owner": "fabiocicerchia",
+                    "repo": "greenlint",
+                    "stars": 0,
+                    "topics": [
+                      "carbon",
+                      "ci",
+                      "green-software",
+                      "greenops",
+                      "linter",
+                      "static-analysis",
+                      "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-09-27T21:49:20.651Z"
                 }
               ],
               "description": null,
@@ -771,6 +856,46 @@
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GreenCalculus",
+                  "description": "Python and JavaScript clients for grid carbon intensity and 16,673 other greenhouse-gas emission factors from DEFRA, the US EPA, ADEME and the IPCC, each returned with the publisher's exact source cell and the data version it was read at; the corpus is readable without an API key.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official Python & JavaScript/TypeScript SDKs for the GreenCalculus carbon API — sourced emission factors + audit-traced calculations.",
+                    "homepage": "https://greencalculus.com/developers?ref=github-sdk",
+                    "id": 1329609445,
+                    "language": "JavaScript",
+                    "license": "MIT",
+                    "last_commit": "2026-09-19T00:36:39Z",
+                    "open_issues": 1,
+                    "owner": "greencalculus",
+                    "repo": "greencalculus-sdk",
+                    "stars": 0,
+                    "topics": [
+                      "api-client",
+                      "carbon-accounting",
+                      "carbon-api",
+                      "carbon-footprint",
+                      "climate",
+                      "co2",
+                      "defra",
+                      "embodied-carbon",
+                      "emission-factors",
+                      "esg",
+                      "ghg-protocol",
+                      "google-sheets",
+                      "lca",
+                      "pcaf",
+                      "python",
+                      "scope-3",
+                      "sustainability",
+                      "typescript"
+                    ]
+                  },
+                  "first_seen": "2026-09-27T21:49:20.651Z"
                 }
               ],
               "description": null,
@@ -833,8 +958,8 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": null,
-                    "last_commit": "2026-09-22T12:40:19Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-09-27T07:46:35Z",
+                    "open_issues": 42,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1570,
@@ -1297,10 +1422,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-25T14:25:52Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1336,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T21:45:30.484Z",
+    "last_updated": "2026-09-27T21:49:20.651Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1344,8 +1469,8 @@
       "id": 387275735,
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-26T19:29:36Z",
-      "open_issues": 9,
+      "last_commit": "2026-09-27T00:40:57Z",
+      "open_issues": 2,
       "owner": "Green-Software-Foundation",
       "repo": "awesome-green-software",
       "stars": 695,
@@ -1362,7 +1487,7 @@
         "sustainable-software"
       ]
     },
-    "original_repository_sha": "117687d14d5b556dbc92a8e452c283faa55a39bc",
+    "original_repository_sha": "c864503fa6ff391cfe686f726f32ba4ae030565a",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
     "title": "Awesome Green Software with stars"
