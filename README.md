@@ -72,21 +72,21 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### Cloud — Multicloud
 
-* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,378 | 🐛 56 | 🌐 Go | 📅 2026-09-02 - An open-source Kubernetes add-on that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [kube-green](https://github.com/kube-green/kube-green) ⭐ 1,379 | 🐛 56 | 🌐 Go | 📅 2026-09-02 - An open-source Kubernetes add-on that automatically shuts down selected resources when you do not need them. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbonifer](https://github.com/carboniferio/carbonifer) ⭐ 104 | 🐛 15 | 🌐 Go | 📅 2024-07-13 - A command-line tool to estimate and control the carbon emissions of cloud infrastructure before it is provisioned. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open-source cloud energy and carbon emissions measurement tool spanning AWS, Azure, and GCP. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/) - A free open-source tool to measure the energy and CO2 consumption of a software architecture. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### Code-Based
 
-* [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner) ⭐ 419 | 🐛 20 | 🌐 Python | 📅 2026-09-25 - An auto-tuner capable of [optimizing GPU code for energy efficiency](https://github.com/KernelTuner/kernel_tuner/blob/master/examples/cuda/going_green_performance_model.py) ⭐ 419 | 🐛 20 | 🌐 Python | 📅 2026-09-25. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Kernel Tuner](https://github.com/KernelTuner/kernel_tuner) ⭐ 419 | 🐛 20 | 🌐 Python | 📅 2026-09-29 - An auto-tuner capable of [optimizing GPU code for energy efficiency](https://github.com/KernelTuner/kernel_tuner/blob/master/examples/cuda/going_green_performance_model.py) ⭐ 419 | 🐛 20 | 🌐 Python | 📅 2026-09-29. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Creedengo (formerly ecoCode)](https://github.com/green-code-initiative/creedengo-rules-specifications) ⭐ 216 | 🐛 67 | 🌐 Java | 📅 2026-09-20 - SonarQube plugins for PHP, Python, Java, JavaScript, and more, providing static analyzers that highlight code structures with a negative ecological impact. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Tracarbon](https://github.com/fvaleye/tracarbon) ⭐ 111 | 🐛 3 | 🌐 Python | 📅 2026-09-28 - Tracks a device's energy consumption and calculates carbon emissions using your location. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [JoularJX](https://github.com/joular/joularjx) ⭐ 96 | 🐛 5 | 🌐 Java | 📅 2026-02-19 - Java software power monitoring at the source code level, in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [energy-consumption-measuring-toolkit](https://github.com/Accenture/energy-consumption-measuring-toolkit) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-05-02 - Accenture's RAPL-based toolkit for measuring the energy consumption of Python applications. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [CarbonLint](https://github.com/nishal21/CarbonLint) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-01 - An MIT-licensed Tauri/Rust desktop app and npm CLI that tracks CPU, memory, disk, network, and GPU use, converts it to CO2 via regional grid intensity, and scores projects 0-100. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [carbon-text](https://github.com/ShayokhShorfuddin/carbon-text) ⭐ 2 | 🐛 0 | 📅 2025-09-17 - A syntax highlighter and snippets extension for [carbon.txt](https://carbontxt.org/) files. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [carbon-badge](https://github.com/fabiocicerchia/carbon-badge) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-09-28 - GitHub Action that sums 30 days of CI energy use and publishes the repo's carbon footprint as a Shields.io README badge, marked with how the figure was derived. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [carbon-badge](https://github.com/fabiocicerchia/carbon-badge) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2026-09-29 - GitHub Action that sums 30 days of CI energy use and publishes the repo's carbon footprint as a Shields.io README badge, marked with how the figure was derived. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Green CodeQL](https://github.com/green-code-initiative/green-codeql-queries) ⭐ 1 | 🐛 4 | 🌐 CodeQL | 📅 2026-06-23 - A GPL-3.0 collection of custom CodeQL queries flagging energy-related sustainability issues across six packs covering Java/Kotlin, Python, C/C++, JavaScript, C#, and GitHub Actions. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [carbon-budget-action](https://github.com/fabiocicerchia/carbon-budget-action) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-28 - GitHub Action that fails a PR when its estimated carbon cost exceeds a configurable budget. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Greenlint](https://github.com/fabiocicerchia/greenlint) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2026-09-28 - Static linter for carbon-inefficient patterns in code and CI: oversized images, missing caches, wasted compute. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -110,7 +110,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 ### General Purpose — Energy
 
 * [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 1,977 | 🐛 101 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare-metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,571 | 🐛 42 | 🌐 Go | 📅 2026-09-28 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,571 | 🐛 42 | 🌐 Go | 📅 2026-09-29 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerJoular](https://github.com/joular/powerjoular) ⭐ 119 | 🐛 5 | 🌐 Ada | 📅 2026-09-22 - Monitors the power consumption of software and hardware components in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation) ⭐ 118 | 🐛 4 | 🌐 Shell | 📅 2026-09-12 - A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Vessim](https://vessim.readthedocs.io/en/latest/) - A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. ([source](https://github.com/dos-group/vessim) ⭐ 93 | 🐛 1 | 🌐 Python | 📅 2026-08-26) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -121,7 +121,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### General Purpose — Extensions
 
-* [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) ⭐ 161 | 🐛 20 | 🌐 JavaScript | 📅 2026-05-05 - A DevTools extension measuring a website's ecoIndex and verifying the web eco-design best practices defined by the Collectif Numérique Responsable. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) ⭐ 161 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-05 - A DevTools extension measuring a website's ecoIndex and verifying the web eco-design best practices defined by the Collectif Numérique Responsable. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Globemallow.io](https://globemallow.io/) - A browser extension producing sustainable web development and design best-practice reports, with an analytics and ad blocker that reduces page-load energy. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [WeDeex](https://chromewebstore.google.com/detail/wedeex/ojlagggckhpedblhemgjhecbggnibale) - A Chrome extension estimating the CO2 emissions of web browsing locally from transferred data volume and ranking the five most data-heavy sites; **unmaintained**, last updated 2021. Also on [Edge](https://microsoftedge.microsoft.com/addons/detail/wedeex/jbocoolinibenmobjadejejdbanalfee). ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
@@ -309,7 +309,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ## Related Lists
 
-* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 190 | 🐛 1 | 🌐 Python | 📅 2026-09-25 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
+* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 190 | 🐛 0 | 🌐 Python | 📅 2026-09-29 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
 
 ***
 
@@ -352,4 +352,4 @@ For any inquiries or support, please reach out to <ags@digitalemissions.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
