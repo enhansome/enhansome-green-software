@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 200,
+                    "stars": 202,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -109,7 +109,7 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-28T02:49:56Z",
+                    "last_commit": "2026-09-30T21:50:21Z",
                     "open_issues": 1,
                     "owner": "Vitalini",
                     "repo": "ebb-ai",
@@ -244,7 +244,7 @@
                     "open_issues": 2,
                     "owner": "etsy",
                     "repo": "cloud-jewels",
-                    "stars": 103,
+                    "stars": 104,
                     "topics": [
                       "non-sox"
                     ]
@@ -541,8 +541,8 @@
                     "id": 1299156354,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T12:27:14Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-09-30T14:49:51Z",
+                    "open_issues": 7,
                     "owner": "fabiocicerchia",
                     "repo": "carbon-badge",
                     "stars": 1,
@@ -596,8 +596,8 @@
                     "id": 1299157229,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-28T18:21:09Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-30T14:18:54Z",
+                    "open_issues": 3,
                     "owner": "fabiocicerchia",
                     "repo": "carbon-budget-action",
                     "stars": 0,
@@ -959,7 +959,7 @@
                     "language": "Go",
                     "license": null,
                     "last_commit": "2026-09-29T15:18:50Z",
-                    "open_issues": 42,
+                    "open_issues": 46,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1571,
@@ -983,12 +983,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "PowerJoular allows monitoring power consumption of multiple platforms and processes, on Windows, Linux and macOS",
+                    "description": "PowerJoular monitors power consumption of multiple platforms and processes, on Windows, Linux and macOS",
                     "homepage": "https://www.noureddine.org/research/joular/powerjoular",
                     "id": 350253423,
                     "language": "Ada",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-22T11:43:33Z",
+                    "last_commit": "2026-09-30T20:23:52Z",
                     "open_issues": 5,
                     "owner": "joular",
                     "repo": "powerjoular",
@@ -1221,7 +1221,7 @@
                     "open_issues": 101,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1339,
+                    "stars": 1340,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1461,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:48:22.036Z",
+    "last_updated": "2026-09-30T22:47:05.510Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1470,7 +1470,7 @@
       "language": "TypeScript",
       "license": "NOASSERTION",
       "last_commit": "2026-09-27T00:40:57Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "Green-Software-Foundation",
       "repo": "awesome-green-software",
       "stars": 695,
