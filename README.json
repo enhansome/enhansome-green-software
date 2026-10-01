@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 202,
+                    "stars": 203,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -109,8 +109,8 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T21:50:21Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-01T13:17:11Z",
+                    "open_issues": 0,
                     "owner": "Vitalini",
                     "repo": "ebb-ai",
                     "stars": 1,
@@ -341,7 +341,7 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-29T18:52:12Z",
+                    "last_commit": "2026-10-01T13:26:45Z",
                     "open_issues": 20,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
@@ -624,8 +624,8 @@
                     "id": 1299157345,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-28T17:33:00Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-30T23:41:34Z",
+                    "open_issues": 4,
                     "owner": "fabiocicerchia",
                     "repo": "greenlint",
                     "stars": 0,
@@ -958,11 +958,11 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": null,
-                    "last_commit": "2026-09-29T15:18:50Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-10-01T14:01:30Z",
+                    "open_issues": 45,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1571,
+                    "stars": 1572,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -972,6 +972,39 @@
                       "prometheus",
                       "prometheus-exporter",
                       "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Eco-CI",
+                  "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Eco CI Energy estimation for Github Actions, GitLab and Jenkins",
+                    "homepage": "https://metrics.green-coding.io/ci-index.html",
+                    "id": 589524014,
+                    "language": "Shell",
+                    "license": "MIT",
+                    "last_commit": "2026-09-12T05:29:25Z",
+                    "open_issues": 4,
+                    "owner": "green-coding-solutions",
+                    "repo": "eco-ci-energy-estimation",
+                    "stars": 119,
+                    "topics": [
+                      "carbon-footprint",
+                      "climate-change",
+                      "co2-emissions",
+                      "energy-consumption",
+                      "green-coding",
+                      "green-computing",
+                      "green-software",
+                      "metrics",
+                      "power-consumption",
+                      "sustainability",
+                      "sustainable-software"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1004,39 +1037,6 @@
                       "powerjoular",
                       "software",
                       "windows"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:58:13.608Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Eco-CI",
-                  "description": "A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Eco CI Energy estimation for Github Actions, GitLab and Jenkins",
-                    "homepage": "https://metrics.green-coding.io/ci-index.html",
-                    "id": 589524014,
-                    "language": "Shell",
-                    "license": "MIT",
-                    "last_commit": "2026-09-12T05:29:25Z",
-                    "open_issues": 4,
-                    "owner": "green-coding-solutions",
-                    "repo": "eco-ci-energy-estimation",
-                    "stars": 118,
-                    "topics": [
-                      "carbon-footprint",
-                      "climate-change",
-                      "co2-emissions",
-                      "energy-consumption",
-                      "green-coding",
-                      "green-computing",
-                      "green-software",
-                      "metrics",
-                      "power-consumption",
-                      "sustainability",
-                      "sustainable-software"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1221,7 +1221,7 @@
                     "open_issues": 101,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1340,
+                    "stars": 1341,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1294,7 +1294,7 @@
                     "id": 242579154,
                     "language": "JavaScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-13T07:24:18Z",
+                    "last_commit": "2026-10-01T19:45:04Z",
                     "open_issues": 31,
                     "owner": "thegreenwebfoundation",
                     "repo": "co2.js",
@@ -1421,11 +1421,11 @@
                 "id": 1304407094,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-29T13:23:12Z",
+                "last_commit": "2026-10-01T09:06:17Z",
                 "open_issues": 0,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1461,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:47:05.510Z",
+    "last_updated": "2026-10-01T22:58:15.804Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
