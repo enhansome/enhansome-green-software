@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "Breakend",
                     "repo": "experiment-impact-tracker",
-                    "stars": 293,
+                    "stars": 294,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -162,7 +162,7 @@
                     "open_issues": 12,
                     "owner": "saintslab",
                     "repo": "carbontracker",
-                    "stars": 483,
+                    "stars": 484,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -216,7 +216,7 @@
                     "open_issues": 22,
                     "owner": "thegreenwebfoundation",
                     "repo": "green-cost-explorer",
-                    "stars": 178,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -244,7 +244,7 @@
                     "open_issues": 2,
                     "owner": "etsy",
                     "repo": "cloud-jewels",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "non-sox"
                     ]
@@ -274,7 +274,7 @@
                     "open_issues": 56,
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1379,
+                    "stars": 1380,
                     "topics": [
                       "climate-change",
                       "cloud-native",
@@ -304,7 +304,7 @@
                     "open_issues": 15,
                     "owner": "carboniferio",
                     "repo": "carbonifer",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "aws",
                       "azure",
@@ -341,11 +341,11 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T13:26:45Z",
-                    "open_issues": 20,
+                    "last_commit": "2026-10-02T13:10:49Z",
+                    "open_issues": 21,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
-                    "stars": 419,
+                    "stars": 420,
                     "topics": [
                       "auto-tuning",
                       "autotuning",
@@ -379,11 +379,11 @@
                     "id": 571790951,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-20T20:33:26Z",
+                    "last_commit": "2026-10-02T21:35:17Z",
                     "open_issues": 67,
                     "owner": "green-code-initiative",
                     "repo": "creedengo-rules-specifications",
-                    "stars": 216,
+                    "stars": 217,
                     "topics": [
                       "climate-change",
                       "code-quality",
@@ -414,7 +414,7 @@
                     "open_issues": 3,
                     "owner": "fvaleye",
                     "repo": "tracarbon",
-                    "stars": 111,
+                    "stars": 112,
                     "topics": [
                       "carbon-footprint",
                       "electricity-consumption",
@@ -471,7 +471,7 @@
                     "open_issues": 0,
                     "owner": "Accenture",
                     "repo": "energy-consumption-measuring-toolkit",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -664,7 +664,7 @@
                     "open_issues": 2,
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
-                    "stars": 597,
+                    "stars": 598,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -685,7 +685,7 @@
                     "open_issues": 0,
                     "owner": "bluehands",
                     "repo": "Carbon-Aware-Computing",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -754,7 +754,7 @@
                     "open_issues": 0,
                     "owner": "bluehands",
                     "repo": "Hangfire.Community.CarbonAwareExecution",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -775,7 +775,7 @@
                     "open_issues": 1,
                     "owner": "cloudyspells",
                     "repo": "PSElectricityMaps",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "azure",
                       "carbon-emissions",
@@ -808,7 +808,7 @@
                     "open_issues": 0,
                     "owner": "cloudyspells",
                     "repo": "carbon-appinsights",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": [
                       "azure",
                       "bicep",
@@ -837,7 +837,7 @@
                     "open_issues": 1,
                     "owner": "cloudyspells",
                     "repo": "PSWattTime",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": [
                       "azure",
                       "carbon-emissions",
@@ -920,7 +920,7 @@
                     "open_issues": 101,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1977,
+                    "stars": 1978,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -958,11 +958,11 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": null,
-                    "last_commit": "2026-10-01T14:01:30Z",
-                    "open_issues": 45,
+                    "last_commit": "2026-10-02T13:12:41Z",
+                    "open_issues": 44,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1572,
+                    "stars": 1573,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -992,7 +992,7 @@
                     "open_issues": 4,
                     "owner": "green-coding-solutions",
                     "repo": "eco-ci-energy-estimation",
-                    "stars": 119,
+                    "stars": 121,
                     "topics": [
                       "carbon-footprint",
                       "climate-change",
@@ -1021,11 +1021,11 @@
                     "id": 350253423,
                     "language": "Ada",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-30T20:23:52Z",
+                    "last_commit": "2026-10-02T20:10:52Z",
                     "open_issues": 5,
                     "owner": "joular",
                     "repo": "powerjoular",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": [
                       "ada",
                       "energy",
@@ -1057,7 +1057,7 @@
                     "open_issues": 1,
                     "owner": "dos-group",
                     "repo": "vessim",
-                    "stars": 93,
+                    "stars": 94,
                     "topics": [
                       "carbon-aware",
                       "co-simulator",
@@ -1090,10 +1090,10 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-05-05T13:54:53Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "cnumr",
                     "repo": "GreenIT-Analysis",
-                    "stars": 161,
+                    "stars": 162,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1158,7 +1158,7 @@
                     "open_issues": 9,
                     "owner": "green-code-initiative",
                     "repo": "creedengo-ios",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": [
                       "ecodesign",
                       "ios",
@@ -1193,7 +1193,7 @@
                     "open_issues": 146,
                     "owner": "ipmitool",
                     "repo": "ipmitool",
-                    "stars": 1641,
+                    "stars": 1642,
                     "topics": [
                       "dcmi",
                       "fru",
@@ -1298,7 +1298,7 @@
                     "open_issues": 31,
                     "owner": "thegreenwebfoundation",
                     "repo": "co2.js",
-                    "stars": 497,
+                    "stars": 498,
                     "topics": [
                       "carbon-estimates",
                       "co2",
@@ -1326,7 +1326,7 @@
                     "open_issues": 0,
                     "owner": "ec0lint",
                     "repo": "ec0lint",
-                    "stars": 160,
+                    "stars": 161,
                     "topics": [
                       "css",
                       "digital-ecology",
@@ -1357,7 +1357,7 @@
                     "open_issues": 1,
                     "owner": "digital4better",
                     "repo": "carbonara",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1461,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:58:15.804Z",
+    "last_updated": "2026-10-02T22:47:18.271Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
