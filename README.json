@@ -274,7 +274,7 @@
                     "open_issues": 56,
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1380,
+                    "stars": 1379,
                     "topics": [
                       "climate-change",
                       "cloud-native",
@@ -920,7 +920,7 @@
                     "open_issues": 101,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1978,
+                    "stars": 1979,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -962,7 +962,7 @@
                     "open_issues": 44,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1573,
+                    "stars": 1574,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -1422,10 +1422,10 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-01T09:06:17Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 191,
+                "stars": 193,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1461,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:49:46.033Z",
+    "last_updated": "2026-10-03T21:57:07.635Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
