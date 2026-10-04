@@ -37,7 +37,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 ### AI — Carbon
 
 * [Experiment Impact Tracker](https://github.com/Breakend/experiment-impact-tracker) ⚠️ Archived - A Python library that calculates the carbon cost of a machine learning job; **unmaintained**, archived October 2025. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [claude-carbon](https://github.com/gwittebolle/claude-carbon) ⭐ 203 | 🐛 0 | 🌐 Shell | 📅 2026-09-28 - An MIT-licensed Bash and SQLite tool that tracks the carbon footprint of Claude Code agent sessions, with a live CO2 estimate in the status line, per-model reports, shareable PNG report cards, and a published methodology. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [claude-carbon](https://github.com/gwittebolle/claude-carbon) ⭐ 205 | 🐛 0 | 🌐 Shell | 📅 2026-09-28 - An MIT-licensed Bash and SQLite tool that tracks the carbon footprint of Claude Code agent sessions, with a live CO2 estimate in the status line, per-model reports, shareable PNG report cards, and a published methodology. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [AXIOMAX ESG Carbon Shield](https://github.com/axiomaxllc/esg-carbon-shield) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - An MIT-licensed SDK for Python, Node.js, and Bash that signs AI inference calls with ed25519 and SHA-256 hash chains to produce auditable carbon attestations for CSRD and SEC reporting; calibration coefficients and keys remain server-side, and the project advertises a pending USPTO patent. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [ebb-ai](https://www.ebb-ai.com) - An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. ([source](https://github.com/Vitalini/ebb-ai) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-01) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [1ClickImpact](https://1clickimpact.com) - A commercial API and platform for offsetting carbon emissions from AI workloads, with real-time tracking and Zapier integration for automated carbon accounting. ![co](https://img.shields.io/badge/co-555?style=flat-square)
@@ -121,7 +121,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### General Purpose — Extensions
 
-* [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) ⭐ 162 | 🐛 22 | 🌐 JavaScript | 📅 2026-05-05 - A DevTools extension measuring a website's ecoIndex and verifying the web eco-design best practices defined by the Collectif Numérique Responsable. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [GreenIT-Analysis](https://github.com/cnumr/GreenIT-Analysis) ⭐ 163 | 🐛 22 | 🌐 JavaScript | 📅 2026-05-05 - A DevTools extension measuring a website's ecoIndex and verifying the web eco-design best practices defined by the Collectif Numérique Responsable. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Globemallow.io](https://globemallow.io/) - A browser extension producing sustainable web development and design best-practice reports, with an analytics and ad blocker that reduces page-load energy. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [WeDeex](https://chromewebstore.google.com/detail/wedeex/ojlagggckhpedblhemgjhecbggnibale) - A Chrome extension estimating the CO2 emissions of web browsing locally from transferred data volume and ranking the five most data-heavy sites; **unmaintained**, last updated 2021. Also on [Edge](https://microsoftedge.microsoft.com/addons/detail/wedeex/jbocoolinibenmobjadejejdbanalfee). ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
@@ -158,6 +158,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 * [Fruggr](https://www.fruggr.io) - Evaluates the environmental and social efficiency of web and mobile applications. ![co](https://img.shields.io/badge/co-555?style=flat-square)
 * [GreenFrame.io](https://greenframe.io) - Calculates the carbon footprint of a website from a full user scenario rather than a single page load. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Kastor.green](https://kastor.green/) - Evaluates the ecodesign compliance of websites and web applications against the GR491 standard. ![co](https://img.shields.io/badge/co-555?style=flat-square)
+* [Perennova Scanner](https://perennova-eco.github.io/en/scanner/) - A free browser-run check that downloads a public page and its sub-resources and reports transferred bytes by type, request count, third-party hosts and cache headers, then fills a 20-point scorecard in which every point names the measured fact; it publishes no carbon estimate. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [ShiftPress Website Carbon Calculator](https://shiftpress.ai/carbon-check) - A free online estimator that measures a page's transfer size and reports yearly CO₂, with no account required for the check. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [webNRG](https://website-tester.green-coding.io) - A hosted website tester from Green Coding Solutions measuring browser rendering energy alongside network-transfer emissions, reporting CO2 for a typical 10,000 monthly visitors. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Website Carbon Calculator](https://www.websitecarbon.com/) - An online website carbon estimator giving a per-pageview figure and a letter grade. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -309,7 +310,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ## Related Lists
 
-* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 193 | 🐛 1 | 🌐 Python | 📅 2026-10-01 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
+* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 193 | 🐛 1 | 🌐 Python | 📅 2026-10-04 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
 
 ***
 
@@ -352,4 +353,4 @@ For any inquiries or support, please reach out to <ags@digitalemissions.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

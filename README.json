@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 203,
+                    "stars": 205,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -1093,7 +1093,7 @@
                     "open_issues": 22,
                     "owner": "cnumr",
                     "repo": "GreenIT-Analysis",
-                    "stars": 162,
+                    "stars": 163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1421,7 +1421,7 @@
                 "id": 1304407094,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-01T09:06:17Z",
+                "last_commit": "2026-10-04T07:35:35Z",
                 "open_issues": 1,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
@@ -1461,7 +1461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T21:57:07.635Z",
+    "last_updated": "2026-10-04T22:10:04.873Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1469,8 +1469,8 @@
       "id": 387275735,
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-09-27T00:40:57Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-03T23:04:52Z",
+      "open_issues": 2,
       "owner": "Green-Software-Foundation",
       "repo": "awesome-green-software",
       "stars": 695,
@@ -1487,7 +1487,7 @@
         "sustainable-software"
       ]
     },
-    "original_repository_sha": "c864503fa6ff391cfe686f726f32ba4ae030565a",
+    "original_repository_sha": "9d4fa3644a098154393c35a0b33a740963cbaf91",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
     "title": "Awesome Green Software with stars"
