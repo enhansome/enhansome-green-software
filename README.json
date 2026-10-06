@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -341,8 +341,8 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T13:10:49Z",
-                    "open_issues": 21,
+                    "last_commit": "2026-10-06T01:38:05Z",
+                    "open_issues": 22,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 420,
@@ -410,7 +410,7 @@
                     "id": 468889604,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T21:27:55Z",
+                    "last_commit": "2026-10-06T08:25:15Z",
                     "open_issues": 3,
                     "owner": "fvaleye",
                     "repo": "tracarbon",
@@ -959,7 +959,7 @@
                     "language": "Go",
                     "license": null,
                     "last_commit": "2026-10-05T18:24:27Z",
-                    "open_issues": 37,
+                    "open_issues": 39,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1575,
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T00:33:01.912Z",
+    "last_updated": "2026-10-06T10:32:18.447Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
