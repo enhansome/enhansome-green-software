@@ -681,7 +681,7 @@
                     "id": 623579593,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-02-20T14:25:40Z",
+                    "last_commit": "2026-10-06T18:58:39Z",
                     "open_issues": 1,
                     "owner": "bluehands",
                     "repo": "Carbon-Aware-Computing",
@@ -1019,7 +1019,7 @@
                     "id": 350253423,
                     "language": "Ada",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-05T15:54:38Z",
+                    "last_commit": "2026-10-06T11:57:48Z",
                     "open_issues": 4,
                     "owner": "joular",
                     "repo": "powerjoular",
@@ -1215,7 +1215,7 @@
                     "id": 3096701,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-25T17:45:46Z",
+                    "last_commit": "2026-10-06T17:37:11Z",
                     "open_issues": 101,
                     "owner": "fenrus75",
                     "repo": "powertop",
@@ -1423,7 +1423,7 @@
                 "open_issues": 0,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:18.447Z",
+    "last_updated": "2026-10-06T22:51:55.213Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
