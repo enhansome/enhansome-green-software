@@ -345,7 +345,7 @@
                     "open_issues": 19,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
-                    "stars": 425,
+                    "stars": 426,
                     "topics": [
                       "auto-tuning",
                       "autotuning",
@@ -723,8 +723,8 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-09T20:33:04Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-10-10T18:22:00Z",
+                    "open_issues": 18,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 18,
@@ -959,10 +959,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-07T15:04:45Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1576,
+                    "stars": 1577,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:00:03.923Z",
+    "last_updated": "2026-10-10T22:10:43.222Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
