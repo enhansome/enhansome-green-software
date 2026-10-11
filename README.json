@@ -920,7 +920,7 @@
                     "open_issues": 101,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1981,
+                    "stars": 1982,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -958,7 +958,7 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T15:04:45Z",
+                    "last_commit": "2026-10-11T10:14:52Z",
                     "open_issues": 38,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
@@ -1116,7 +1116,7 @@
                     "id": 771625184,
                     "language": "Go",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-09T22:22:20Z",
+                    "last_commit": "2026-10-11T20:08:04Z",
                     "open_issues": 0,
                     "owner": "powdroid-project",
                     "repo": "powdroid",
@@ -1424,7 +1424,7 @@
                 "open_issues": 0,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1460,7 +1460,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:10:43.222Z",
+    "last_updated": "2026-10-11T22:38:59.957Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
