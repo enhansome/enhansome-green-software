@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 214,
+                    "stars": 216,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -105,12 +105,12 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Run non-urgent LLM tasks at the cleanest grid hour before a deadline. MCP server + TS/Python library. Apache-2.0.",
-                    "homepage": "https://tidegap.com",
+                    "homepage": "https://www.tidegap.com",
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T19:05:36Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-17T20:26:11Z",
+                    "open_issues": 3,
                     "owner": "tidegap",
                     "repo": "tidegap",
                     "stars": 1,
@@ -130,9 +130,9 @@
                       "mcp-server",
                       "model-context-protocol",
                       "openai",
+                      "openclaw",
                       "python",
                       "scheduler",
-                      "scheduling",
                       "sustainability",
                       "typescript"
                     ]
@@ -958,11 +958,11 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T12:32:12Z",
-                    "open_issues": 46,
+                    "last_commit": "2026-10-17T14:16:28Z",
+                    "open_issues": 48,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1582,
+                    "stars": 1584,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T21:52:58.941Z",
+    "last_updated": "2026-10-17T21:11:54.903Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
