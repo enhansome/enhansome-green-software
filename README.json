@@ -109,8 +109,8 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T20:26:11Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-18T20:48:14Z",
+                    "open_issues": 1,
                     "owner": "tidegap",
                     "repo": "tidegap",
                     "stars": 1,
@@ -274,7 +274,7 @@
                     "open_issues": 56,
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1378,
+                    "stars": 1381,
                     "topics": [
                       "climate-change",
                       "cloud-native",
@@ -664,7 +664,7 @@
                     "open_issues": 2,
                     "owner": "Green-Software-Foundation",
                     "repo": "carbon-aware-sdk",
-                    "stars": 598,
+                    "stars": 597,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -920,7 +920,7 @@
                     "open_issues": 102,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 1984,
+                    "stars": 1993,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -958,8 +958,8 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T14:16:28Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-18T14:19:21Z",
+                    "open_issues": 50,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1584,
@@ -1050,12 +1050,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A co-simulation testbed for microgrids and energy-aware systems 🍃",
+                    "description": "A Python library for simulating datacenter energy systems ⚡️",
                     "homepage": "https://vessim.readthedocs.io",
                     "id": 603417933,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-26T13:10:07Z",
+                    "last_commit": "2026-10-18T17:29:52Z",
                     "open_issues": 1,
                     "owner": "dos-group",
                     "repo": "vessim",
@@ -1427,7 +1427,7 @@
                 "open_issues": 2,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 203,
+                "stars": 204,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1463,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:11:54.903Z",
+    "last_updated": "2026-10-18T21:13:18.156Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
