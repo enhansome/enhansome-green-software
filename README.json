@@ -40,11 +40,11 @@
                     "id": 1202295583,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T17:53:24Z",
+                    "last_commit": "2026-10-21T16:06:28Z",
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 218,
+                    "stars": 225,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -66,6 +66,48 @@
                       "llm",
                       "statusline",
                       "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ebb-ai",
+                  "description": "An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. (source)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Run non-urgent LLM tasks at the cleanest grid hour before a deadline. MCP server + TS/Python library. Apache-2.0.",
+                    "homepage": "https://www.tidegap.com",
+                    "id": 1237049607,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-21T03:21:04Z",
+                    "open_issues": 1,
+                    "owner": "tidegap",
+                    "repo": "tidegap",
+                    "stars": 2,
+                    "topics": [
+                      "agentic-ai",
+                      "ai-agents",
+                      "anthropic",
+                      "batch-api",
+                      "carbon-aware",
+                      "carbon-intensity",
+                      "claude-code",
+                      "green-ai",
+                      "green-software",
+                      "llm",
+                      "llm-tools",
+                      "mcp",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "openai",
+                      "openclaw",
+                      "python",
+                      "scheduler",
+                      "sustainability",
+                      "typescript"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -94,48 +136,6 @@
                       "cryptography",
                       "esg",
                       "green-software"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:58:13.608Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ebb-ai",
-                  "description": "An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. (source)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Run non-urgent LLM tasks at the cleanest grid hour before a deadline. MCP server + TS/Python library. Apache-2.0.",
-                    "homepage": "https://www.tidegap.com",
-                    "id": 1237049607,
-                    "language": "TypeScript",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T21:59:36Z",
-                    "open_issues": 2,
-                    "owner": "tidegap",
-                    "repo": "tidegap",
-                    "stars": 1,
-                    "topics": [
-                      "agentic-ai",
-                      "ai-agents",
-                      "anthropic",
-                      "batch-api",
-                      "carbon-aware",
-                      "carbon-intensity",
-                      "claude-code",
-                      "green-ai",
-                      "green-software",
-                      "llm",
-                      "llm-tools",
-                      "mcp",
-                      "mcp-server",
-                      "model-context-protocol",
-                      "openai",
-                      "openclaw",
-                      "python",
-                      "scheduler",
-                      "sustainability",
-                      "typescript"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -384,7 +384,7 @@
                     "open_issues": 66,
                     "owner": "green-code-initiative",
                     "repo": "creedengo-rules-specifications",
-                    "stars": 217,
+                    "stars": 218,
                     "topics": [
                       "climate-change",
                       "code-quality",
@@ -532,6 +532,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Green CodeQL",
+                  "description": "A GPL-3.0 collection of custom CodeQL queries flagging energy-related sustainability issues across six packs covering Java/Kotlin, Python, C/C++, JavaScript, C#, and GitHub Actions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CodeQL Analysis for sustainability",
+                    "homepage": "https://green-code-initiative.org/projets/green-codeql",
+                    "id": 1152064265,
+                    "language": "CodeQL",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-20T16:40:39Z",
+                    "open_issues": 5,
+                    "owner": "green-code-initiative",
+                    "repo": "green-codeql-queries",
+                    "stars": 2,
+                    "topics": [
+                      "codeql",
+                      "energy",
+                      "green-it",
+                      "green-software",
+                      "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "carbon-badge",
                   "description": "GitHub Action that sums 30 days of CI energy use and publishes the repo's carbon footprint as a Shields.io README badge, marked with how the figure was derived.",
                   "children": [],
@@ -542,8 +569,8 @@
                     "id": 1299156354,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T07:50:05Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-21T14:50:09Z",
+                    "open_issues": 9,
                     "owner": "fabiocicerchia",
                     "repo": "carbon-badge",
                     "stars": 1,
@@ -560,33 +587,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Green CodeQL",
-                  "description": "A GPL-3.0 collection of custom CodeQL queries flagging energy-related sustainability issues across six packs covering Java/Kotlin, Python, C/C++, JavaScript, C#, and GitHub Actions.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CodeQL Analysis for sustainability",
-                    "homepage": "https://green-code-initiative.org/projets/green-codeql",
-                    "id": 1152064265,
-                    "language": "CodeQL",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-20T16:40:39Z",
-                    "open_issues": 5,
-                    "owner": "green-code-initiative",
-                    "repo": "green-codeql-queries",
-                    "stars": 1,
-                    "topics": [
-                      "codeql",
-                      "energy",
-                      "green-it",
-                      "green-software",
-                      "sustainability"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:58:13.608Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "carbon-budget-action",
                   "description": "GitHub Action that fails a PR when its estimated carbon cost exceeds a configurable budget.",
                   "children": [],
@@ -597,8 +597,8 @@
                     "id": 1299157229,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-19T07:45:52Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-21T14:17:47Z",
+                    "open_issues": 4,
                     "owner": "fabiocicerchia",
                     "repo": "carbon-budget-action",
                     "stars": 0,
@@ -959,11 +959,11 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-20T14:44:27Z",
-                    "open_issues": 65,
+                    "last_commit": "2026-10-21T11:03:23Z",
+                    "open_issues": 62,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1587,
+                    "stars": 1589,
                     "topics": [
                       "cloud-native",
                       "energy-consumption",
@@ -1057,10 +1057,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-20T09:42:02Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "dos-group",
                     "repo": "vessim",
-                    "stars": 94,
+                    "stars": 98,
                     "topics": [
                       "carbon-aware",
                       "co-simulator",
@@ -1196,7 +1196,7 @@
                     "open_issues": 146,
                     "owner": "ipmitool",
                     "repo": "ipmitool",
-                    "stars": 1641,
+                    "stars": 1642,
                     "topics": [
                       "dcmi",
                       "fru",
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:01:37.578Z",
+    "last_updated": "2026-10-21T22:03:31.680Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
