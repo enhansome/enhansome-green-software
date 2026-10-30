@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 232,
+                    "stars": 233,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -82,8 +82,8 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T23:56:23Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-30T22:30:30Z",
+                    "open_issues": 0,
                     "owner": "tidegap",
                     "repo": "tidegap",
                     "stars": 2,
@@ -342,8 +342,8 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-25T23:02:59Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-10-30T20:17:28Z",
+                    "open_issues": 23,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 427,
@@ -406,13 +406,13 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "🌍 Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.",
+                    "description": "Tracarbon tracks your device's energy consumption and calculates your carbon emissions using your location.",
                     "homepage": "https://fvaleye.github.io/tracarbon/documentation/",
                     "id": 468889604,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T16:30:49Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-10-30T17:25:59Z",
+                    "open_issues": 3,
                     "owner": "fvaleye",
                     "repo": "tracarbon",
                     "stars": 111,
@@ -440,7 +440,7 @@
                     "language": "Java",
                     "license": "GPL-3.0",
                     "last_commit": "2026-02-19T21:56:20Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "joular",
                     "repo": "joularjx",
                     "stars": 96,
@@ -724,8 +724,8 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-27T00:05:34Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-30T00:05:00Z",
+                    "open_issues": 28,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
                     "stars": 18,
@@ -959,11 +959,11 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T07:01:51Z",
+                    "last_commit": "2026-10-30T21:30:34Z",
                     "open_issues": 79,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1594,
+                    "stars": 1595,
                     "topics": [
                       "baremetal",
                       "cloud-native-computing-foundation",
@@ -980,6 +980,39 @@
                       "prometheus-exporter",
                       "rapl",
                       "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PowerJoular",
+                  "description": "Monitors the power consumption of software and hardware components in real time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "PowerJoular monitors power consumption of multiple platforms and processes, on Windows, Linux and macOS",
+                    "homepage": "https://www.noureddine.org/research/joular/powerjoular",
+                    "id": 350253423,
+                    "language": "Ada",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-30T15:07:54Z",
+                    "open_issues": 3,
+                    "owner": "joular",
+                    "repo": "powerjoular",
+                    "stars": 122,
+                    "topics": [
+                      "ada",
+                      "energy",
+                      "freebsd",
+                      "green",
+                      "joular",
+                      "linux",
+                      "macos",
+                      "power",
+                      "powerjoular",
+                      "software",
+                      "windows"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1013,39 +1046,6 @@
                       "power-consumption",
                       "sustainability",
                       "sustainable-software"
-                    ]
-                  },
-                  "first_seen": "2026-08-29T01:58:13.608Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PowerJoular",
-                  "description": "Monitors the power consumption of software and hardware components in real time.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "PowerJoular monitors power consumption of multiple platforms and processes, on Windows, Linux and macOS",
-                    "homepage": "https://www.noureddine.org/research/joular/powerjoular",
-                    "id": 350253423,
-                    "language": "Ada",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-29T15:51:44Z",
-                    "open_issues": 4,
-                    "owner": "joular",
-                    "repo": "powerjoular",
-                    "stars": 121,
-                    "topics": [
-                      "ada",
-                      "energy",
-                      "freebsd",
-                      "green",
-                      "joular",
-                      "linux",
-                      "macos",
-                      "power",
-                      "powerjoular",
-                      "software",
-                      "windows"
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1434,7 +1434,7 @@
                 "open_issues": 2,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 208,
+                "stars": 210,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1470,7 +1470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T23:04:10.463Z",
+    "last_updated": "2026-10-30T22:45:07.037Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
