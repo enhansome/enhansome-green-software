@@ -38,9 +38,10 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 * [Experiment Impact Tracker](https://github.com/Breakend/experiment-impact-tracker) ⚠️ Archived - A Python library that calculates the carbon cost of a machine learning job; **unmaintained**, archived October 2025. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [claude-carbon](https://github.com/gwittebolle/claude-carbon) ⭐ 233 | 🐛 0 | 🌐 Shell | 📅 2026-10-28 - An MIT-licensed Bash and SQLite tool that tracks the carbon footprint of Claude Code agent sessions, with a live CO2 estimate in the status line, per-model reports, shareable PNG report cards, and a published methodology. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [ebb-ai](https://www.ebb-ai.com) - An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. ([source](https://github.com/Vitalini/ebb-ai) ⭐ 2 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-31) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [ebb-ai](https://www.ebb-ai.com) - An Apache-2.0 MCP server exposing nine tools that defer non-urgent LLM jobs to the cleanest grid hour within a deadline across 31 regions, logging per-task carbon receipts to SQLite. ([source](https://github.com/Vitalini/ebb-ai) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [AXIOMAX ESG Carbon Shield](https://github.com/axiomaxllc/esg-carbon-shield) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-10 - An MIT-licensed SDK for Python, Node.js, and Bash that signs AI inference calls with ed25519 and SHA-256 hash chains to produce auditable carbon attestations for CSRD and SEC reporting; calibration coefficients and keys remain server-side, and the project advertises a pending USPTO patent. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [1ClickImpact](https://1clickimpact.com) - A commercial API and platform for offsetting carbon emissions from AI workloads, with real-time tracking and Zapier integration for automated carbon accounting. ![co](https://img.shields.io/badge/co-555?style=flat-square)
+* [SOMA AI Emission Factors (SAEF)](https://doi.org/10.5281/zenodo.20443585) - An open CC BY 4.0 dataset of carbon and water factors per million tokens for AI inference, by model class and 143 AWS, Azure and Google Cloud regions, with a standard-library Python calculator. The method is a preprint under peer review. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
 ### AI — Energy
 
@@ -98,7 +99,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 ### General Purpose — Emissions
 
 * [Carbon Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk) ⭐ 599 | 🐛 2 | 🌐 HTML | 📅 2026-08-25 - A Web API and command line for unified forecast and historical power grid emissions data by location and time, to help build carbon-aware software. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [Carbon Aware Computing — Tools and Free Forecast Data](https://github.com/bluehands/Carbon-Aware-Computing) ⭐ 47 | 🐛 2 | 🌐 C# | 📅 2026-10-31 - A NuGet package, PowerShell cmdlets, and a live SDK instance, plus an open carbon forecast for Europe in the Carbon Aware SDK's JSON format. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [Carbon Aware Computing — Tools and Free Forecast Data](https://github.com/bluehands/Carbon-Aware-Computing) ⭐ 47 | 🐛 0 | 🌐 C# | 📅 2026-11-01 - A NuGet package, PowerShell cmdlets, and a live SDK instance, plus an open carbon forecast for Europe in the Carbon Aware SDK's JSON format. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Compute Gardener Scheduler](https://github.com/elevated-systems/compute-gardener-scheduler) ⭐ 26 | 🐛 23 | 🌐 Go | 📅 2026-08-27 An open-source Kubernetes scheduler plugin that simplifies both time and location shifting of flexible compute workloads to lower-carbon or cheaper grid hours, using real-time carbon intensity data and time-of-use prices, with workload energy budgets, Kepler power metrics, and a dry-run admission webhook to evaluate savings.
 * [GreenScheduled](https://github.com/carbonintensityio/green-scheduler) ⭐ 18 | 🐛 28 | 🌐 Java | 📅 2026-10-30 - An Apache-2.0 Java library adding a `@GreenScheduled` annotation for Spring Boot and Quarkus that shifts jobs to the lowest-carbon hour in a window using the carbonintensity.io API. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon Aware Computing Hangfire Extension](https://github.com/bluehands/Hangfire.Community.CarbonAwareExecution) ⭐ 12 | 🐛 0 | 🌐 C# | 📅 2025-10-10 - A Hangfire extension that schedules tasks into the window of minimal grid carbon intensity, based on emission forecasts. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -109,11 +110,12 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### General Purpose — Energy
 
-* [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,016 | 🐛 102 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare-metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [scaphandre](https://github.com/hubblo-org/scaphandre) ⭐ 2,017 | 🐛 102 | 🌐 Rust | 📅 2026-07-19 - Power measurement for bare-metal hosts, Prometheus, and workloads inside Docker containers. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Kepler](https://github.com/sustainable-computing-io/kepler) ⭐ 1,595 | 🐛 84 | 🌐 Go | 📅 2026-10-30 - The Kubernetes-based Efficient Power Level Exporter uses eBPF to probe energy-related system stats and exports them as Prometheus metrics. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
-* [PowerJoular](https://github.com/joular/powerjoular) ⭐ 122 | 🐛 3 | 🌐 Ada | 📅 2026-10-31 - Monitors the power consumption of software and hardware components in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [PowerJoular](https://github.com/joular/powerjoular) ⭐ 122 | 🐛 3 | 🌐 Ada | 📅 2026-11-01 - Monitors the power consumption of software and hardware components in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Eco-CI](https://github.com/green-coding-solutions/eco-ci-energy-estimation) ⭐ 121 | 🐛 4 | 🌐 Shell | 📅 2026-10-13 - A plugin for GitHub Actions and GitLab that measures CI runs and estimates their energy use. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Vessim](https://vessim.readthedocs.io/en/latest/) - A co-simulation testbed for carbon-aware applications, connecting renewable generation and energy storage simulators to real software and hardware; published at HotCarbon'24. ([source](https://github.com/dos-group/vessim) ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2026-10-20) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [SunEco BESS Sizer](https://suneco.com.ua/) - Load profile modeling and sizing simulation for commercial battery energy storage systems (BESS) and industrial peak shaving. ([source](https://github.com/romangrid/suneco-bess-sizing) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-31) ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [CEEMS](https://ceems-dev.github.io/ceems/) - The Compute Energy and Emissions Monitoring Stack: energy and equivalent emissions alongside performance, I/O, and network metrics for SLURM, OpenStack, and Kubernetes workloads. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [CO2Scope](https://www.easyvirt.com/en/co2scope-reduce-the-carbon-footprint-of-it-services/) - A commercial solution monitoring the real-time CO2 emissions of IT services, virtual machines, and servers. ![co](https://img.shields.io/badge/co-555?style=flat-square)
 * [Energy Rebate Calculator](https://energyrebatecalculator.com/) - A consumer-facing US home energy rebate finder covering HOMES and HEAR programs, heat pumps, and insulation tax credits. *Flagged for review: unrelated to green software engineering.* ![co](https://img.shields.io/badge/co-555?style=flat-square)
@@ -138,6 +140,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 * [ipmitool](https://github.com/ipmitool/ipmitool) ⚠️ Archived - Reads the power consumption of a bare-metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerTOP](https://github.com/fenrus75/powertop) ⭐ 1,347 | 🐛 104 | 🌐 C++ | 📅 2026-10-23 - A Linux tool to diagnose issues with power consumption and power management. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [turbostress](https://github.com/teads/turbostress) ⭐ 27 | 🐛 1 | 🌐 Go | 📅 2021-03-31 - Generates load on a machine and outputs the computer's power metrics for that load. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [CO2\_RAPL](https://github.com/Institut-du-Numerique-Responsable/CO2_RAPL) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-08-28 - A CC0 Bash script that reads Intel RAPL counters to monitor a Linux server's CPU energy use in real time and estimate the associated CO2 emissions. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [FreeIPMI](https://www.gnu.org/software/freeipmi/) - Reads the power consumption of a bare-metal machine through DCMI, the IPMI extension. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [PowerAPI](https://powerapi.org) - A Linux software-defined power meter estimating process-scale power consumption in real time. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 
@@ -148,17 +151,20 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ### Web
 
-* [CO2.js](https://github.com/thegreenwebfoundation/co2.js/) ⭐ 499 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-01 - An npm module for accessing the Green Web API and estimating the carbon emissions of digital services. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [CO2.js](https://github.com/thegreenwebfoundation/co2.js/) ⭐ 498 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-01 - An npm module for accessing the Green Web API and estimating the carbon emissions of digital services. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [ec0lint](https://github.com/ec0lint/ec0lint) ⭐ 161 | 🐛 0 | 🌐 JavaScript | 📅 2024-02-13 - A static code analysis tool providing hints for reducing the carbon footprint of websites. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbonara](https://github.com/digital4better/carbonara/) ⭐ 11 | 🐛 1 | 🌐 TypeScript | 📅 2023-03-10 - A custom element from Digital4Better that displays the carbon footprint of web navigation. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [CometWeb Carbon Badge](https://github.com/CometWeb-io/Carbon-Badge) ⭐ 1 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30 - An MIT-licensed web component that shows a modelled CO2e estimate per page view using the Sustainable Web Design Model v4, with the formula tested against CO2.js. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Beacon](https://digitalbeacon.co/) - Calculates the environmental impact of a single web page. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Carbon Footprint of Sending Data](https://observablehq.com/@mrchrisadams/carbon-footprint-of-sending-data-around) - An online calculator estimating carbon emissions from network traffic, based on The Shift Project's Lean ICT report. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [EcoGrader.com](https://ecograder.com/) - An online website carbon estimator. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [ecoIndex](https://www.ecoindex.fr/) - Estimates the carbon footprint of public websites and pages; interface in French. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Fruggr](https://www.fruggr.io) - Evaluates the environmental and social efficiency of web and mobile applications. ![co](https://img.shields.io/badge/co-555?style=flat-square)
+* [Grammage](https://getgrammage.com/) - Audits a website's carbon footprint and eco-design practices on every deployment from CI/CD (GitHub Actions, GitLab CI, Bitbucket Pipelines, Azure DevOps) and publishes an attestation anyone can verify. ![co](https://img.shields.io/badge/co-555?style=flat-square)
 * [GreenFrame.io](https://greenframe.io) - Calculates the carbon footprint of a website from a full user scenario rather than a single page load. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Kastor.green](https://kastor.green/) - Evaluates the ecodesign compliance of websites and web applications against the GR491 standard. ![co](https://img.shields.io/badge/co-555?style=flat-square)
 * [Perennova Scanner](https://perennova-eco.github.io/en/scanner/) - A free browser-run check that downloads a public page and its sub-resources and reports transferred bytes by type, request count, third-party hosts and cache headers, then fills a 20-point scorecard in which every point names the measured fact; it publishes no carbon estimate. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
+* [SEOCheck-AI](https://seocheck-ai.com/free-seo-check) - Free online website performance and crawler audit evaluating asset transfer payload, DOM complexity, and server TTFB to reduce digital emissions. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [ShiftPress Website Carbon Calculator](https://shiftpress.ai/carbon-check) - A free online estimator that measures a page's transfer size and reports yearly CO₂, with no account required for the check. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [webNRG](https://website-tester.green-coding.io) - A hosted website tester from Green Coding Solutions measuring browser rendering energy alongside network-transfer emissions, reporting CO2 for a typical 10,000 monthly visitors. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
 * [Website Carbon Calculator](https://www.websitecarbon.com/) - An online website carbon estimator giving a per-pageview figure and a letter grade. ![tool](https://img.shields.io/badge/tool-blue?style=flat-square)
@@ -310,7 +316,7 @@ Each entry ends with a kind badge: ![tool](https://img.shields.io/badge/tool-blu
 
 ## Related Lists
 
-* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 210 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
+* [Awesome AI Tokenomics](https://github.com/QuesmaOrg/awesome-ai-tokenomics) ⭐ 211 | 🐛 2 | 🌐 Python | 📅 2026-10-28 - Roughly 190 tools, papers, and benchmarks for monitoring, optimizing, and governing LLM token cost and waste, including an energy and carbon category. ![list](https://img.shields.io/badge/list-555?style=flat-square)
 
 ***
 
@@ -353,4 +359,4 @@ For any inquiries or support, please reach out to <ags@digitalemissions.org>.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

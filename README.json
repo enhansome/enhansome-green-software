@@ -82,8 +82,8 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T02:36:23Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-01T22:19:35Z",
+                    "open_issues": 1,
                     "owner": "tidegap",
                     "repo": "tidegap",
                     "stars": 2,
@@ -682,8 +682,8 @@
                     "id": 623579593,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-31T18:54:02Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-01T20:12:45Z",
+                    "open_issues": 0,
                     "owner": "bluehands",
                     "repo": "Carbon-Aware-Computing",
                     "stars": 47,
@@ -921,7 +921,7 @@
                     "open_issues": 102,
                     "owner": "hubblo-org",
                     "repo": "scaphandre",
-                    "stars": 2016,
+                    "stars": 2017,
                     "topics": [
                       "carbon-footprint",
                       "electricity",
@@ -996,7 +996,7 @@
                     "id": 350253423,
                     "language": "Ada",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-31T21:23:09Z",
+                    "last_commit": "2026-11-01T10:15:29Z",
                     "open_issues": 3,
                     "owner": "joular",
                     "repo": "powerjoular",
@@ -1078,6 +1078,34 @@
                     ]
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SunEco BESS Sizer",
+                  "description": "Load profile modeling and sizing simulation for commercial battery energy storage systems (BESS) and industrial peak shaving. (source)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Industrial Battery Energy Storage System (BESS) & Solar Hybrid Inverter Sizing Engine for Commercial Enterprises in Ukraine",
+                    "homepage": "https://suneco.com.ua/",
+                    "id": 1441166516,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-31T18:57:43Z",
+                    "open_issues": 0,
+                    "owner": "romangrid",
+                    "repo": "suneco-bess-sizing",
+                    "stars": 0,
+                    "topics": [
+                      "bess",
+                      "energy-storage",
+                      "photovoltaics",
+                      "solar-energy",
+                      "suneco",
+                      "ukraine"
+                    ]
+                  },
+                  "first_seen": "2026-11-01T22:33:51.117Z"
                 }
               ],
               "description": null,
@@ -1255,6 +1283,43 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CO2_RAPL",
+                  "description": "A CC0 Bash script that reads Intel RAPL counters to monitor a Linux server's CPU energy use in real time and estimate the associated CO2 emissions.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "🌱 Script RAPL pour estimer l'empreinte carbone et la consommation d'un serveur Linux / RAPL-based carbon footprint estimation for Linux servers",
+                    "homepage": "https://institutnr.org",
+                    "id": 1162133020,
+                    "language": "Shell",
+                    "license": "CC0-1.0",
+                    "last_commit": "2026-08-28T15:56:43Z",
+                    "open_issues": 0,
+                    "owner": "Institut-du-Numerique-Responsable",
+                    "repo": "CO2_RAPL",
+                    "stars": 1,
+                    "topics": [
+                      "carbon-accounting",
+                      "carbon-footprint",
+                      "digital-sustainability",
+                      "energy-efficiency",
+                      "energy-monitoring",
+                      "green-it",
+                      "green-software",
+                      "inr",
+                      "intel-rapl",
+                      "linux",
+                      "numerique-responsable",
+                      "powercap",
+                      "rapl",
+                      "server-monitoring",
+                      "sustainable-it"
+                    ]
+                  },
+                  "first_seen": "2026-11-01T22:33:51.117Z"
                 }
               ],
               "description": null,
@@ -1307,7 +1372,7 @@
                     "open_issues": 33,
                     "owner": "thegreenwebfoundation",
                     "repo": "co2.js",
-                    "stars": 499,
+                    "stars": 498,
                     "topics": [
                       "carbon-estimates",
                       "co2",
@@ -1370,6 +1435,38 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CometWeb Carbon Badge",
+                  "description": "An MIT-licensed web component that shows a modelled CO2e estimate per page view using the Sustainable Web Design Model v4, with the formula tested against CO2.js.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Embeddable web component that displays estimated website CO₂e per page view using the Sustainable Web Design Model v4.",
+                    "homepage": "https://cometweb.io/carbon-badge",
+                    "id": 1154545762,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-30T23:53:50Z",
+                    "open_issues": 5,
+                    "owner": "CometWeb-io",
+                    "repo": "Carbon-Badge",
+                    "stars": 1,
+                    "topics": [
+                      "badge",
+                      "carbon",
+                      "carbon-emissions",
+                      "carbon-footprint",
+                      "eco",
+                      "emissions",
+                      "emissions-co2",
+                      "sustainability",
+                      "sustainability-analysis",
+                      "web-components"
+                    ]
+                  },
+                  "first_seen": "2026-11-01T22:33:51.117Z"
                 }
               ],
               "description": null,
@@ -1434,7 +1531,7 @@
                 "open_issues": 2,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "agentic-coding",
                   "ai",
@@ -1470,7 +1567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:08:10.424Z",
+    "last_updated": "2026-11-01T22:33:51.117Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1478,8 +1575,8 @@
       "id": 387275735,
       "language": "TypeScript",
       "license": "NOASSERTION",
-      "last_commit": "2026-10-03T23:04:52Z",
-      "open_issues": 11,
+      "last_commit": "2026-11-01T03:42:06Z",
+      "open_issues": 7,
       "owner": "Green-Software-Foundation",
       "repo": "awesome-green-software",
       "stars": 700,
@@ -1496,7 +1593,7 @@
         "sustainable-software"
       ]
     },
-    "original_repository_sha": "9d4fa3644a098154393c35a0b33a740963cbaf91",
+    "original_repository_sha": "eac3166cf532a68b7c0ae4cfac316340e1a5714f",
     "enhanced_repository": "enhansome/enhansome-green-software",
     "enhanced_repository_description": null,
     "title": "Awesome Green Software with stars"
