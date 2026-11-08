@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "Breakend",
                     "repo": "experiment-impact-tracker",
-                    "stars": 294,
+                    "stars": 293,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -44,7 +44,7 @@
                     "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": [
                       "ai-sustainability",
                       "anthropic",
@@ -82,8 +82,8 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T02:08:25Z",
-                    "open_issues": 4,
+                    "last_commit": "2026-11-08T15:27:15Z",
+                    "open_issues": 2,
                     "owner": "tidegap",
                     "repo": "tidegap",
                     "stars": 3,
@@ -342,8 +342,8 @@
                     "id": 54894320,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T16:14:37Z",
-                    "open_issues": 19,
+                    "last_commit": "2026-11-08T08:27:15Z",
+                    "open_issues": 18,
                     "owner": "KernelTuner",
                     "repo": "kernel_tuner",
                     "stars": 427,
@@ -597,8 +597,8 @@
                     "id": 1299157345,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T12:27:57Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-08T12:09:28Z",
+                    "open_issues": 2,
                     "owner": "fabiocicerchia",
                     "repo": "greenlint",
                     "stars": 1,
@@ -1229,7 +1229,7 @@
                     "open_issues": 146,
                     "owner": "ipmitool",
                     "repo": "ipmitool",
-                    "stars": 1639,
+                    "stars": 1638,
                     "topics": [
                       "dcmi",
                       "fru",
@@ -1257,7 +1257,7 @@
                     "open_issues": 105,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1350,
+                    "stars": 1351,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1443,11 +1443,11 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Embeddable web component that displays estimated website CO₂e per page view using the Sustainable Web Design Model v4.",
-                    "homepage": "https://cometweb.io/carbon-badge",
+                    "homepage": "https://cometweb-io.github.io/Carbon-Badge/",
                     "id": 1154545762,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T22:16:34Z",
+                    "last_commit": "2026-11-08T01:07:22Z",
                     "open_issues": 7,
                     "owner": "CometWeb-io",
                     "repo": "Carbon-Badge",
@@ -1527,7 +1527,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-06T16:27:21Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
                 "stars": 215,
@@ -1566,7 +1566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:27:50.554Z",
+    "last_updated": "2026-11-08T22:37:49.039Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
