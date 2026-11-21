@@ -163,7 +163,7 @@
                     "open_issues": 13,
                     "owner": "saintslab",
                     "repo": "carbontracker",
-                    "stars": 488,
+                    "stars": 489,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -275,7 +275,7 @@
                     "open_issues": 59,
                     "owner": "kube-green",
                     "repo": "kube-green",
-                    "stars": 1385,
+                    "stars": 1390,
                     "topics": [
                       "climate-change",
                       "cloud-native",
@@ -569,8 +569,8 @@
                     "id": 1299156354,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T19:19:05Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-21T07:53:04Z",
+                    "open_issues": 2,
                     "owner": "fabiocicerchia",
                     "repo": "carbon-badge",
                     "stars": 1,
@@ -960,10 +960,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-20T10:44:16Z",
-                    "open_issues": 83,
+                    "open_issues": 86,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
-                    "stars": 1605,
+                    "stars": 1606,
                     "topics": [
                       "cloud-native-computing-foundation",
                       "cost-optimization",
@@ -999,7 +999,7 @@
                     "open_issues": 3,
                     "owner": "joular",
                     "repo": "powerjoular",
-                    "stars": 127,
+                    "stars": 128,
                     "topics": [
                       "ada",
                       "energy",
@@ -1028,7 +1028,7 @@
                     "id": 589524014,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T11:20:30Z",
+                    "last_commit": "2026-11-21T10:37:28Z",
                     "open_issues": 4,
                     "owner": "green-coding-solutions",
                     "repo": "eco-ci-energy-estimation",
@@ -1129,7 +1129,7 @@
                     "open_issues": 22,
                     "owner": "cnumr",
                     "repo": "GreenIT-Analysis",
-                    "stars": 162,
+                    "stars": 163,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1570,7 +1570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:33:29.658Z",
+    "last_updated": "2026-11-21T23:41:11.089Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
@@ -1579,7 +1579,7 @@
       "language": "TypeScript",
       "license": "NOASSERTION",
       "last_commit": "2026-11-01T03:42:06Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "Green-Software-Foundation",
       "repo": "awesome-green-software",
       "stars": 700,
