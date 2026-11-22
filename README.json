@@ -82,7 +82,7 @@
                     "id": 1237049607,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T06:14:18Z",
+                    "last_commit": "2026-11-22T16:47:59Z",
                     "open_issues": 2,
                     "owner": "tidegap",
                     "repo": "tidegap",
@@ -995,7 +995,7 @@
                     "id": 350253423,
                     "language": "Ada",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-15T16:20:48Z",
+                    "last_commit": "2026-11-22T19:21:16Z",
                     "open_issues": 3,
                     "owner": "joular",
                     "repo": "powerjoular",
@@ -1257,7 +1257,7 @@
                     "open_issues": 102,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1358,
+                    "stars": 1359,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1570,7 +1570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T23:41:11.089Z",
+    "last_updated": "2026-11-22T23:57:46.387Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
