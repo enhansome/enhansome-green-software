@@ -40,8 +40,8 @@
                     "id": 1202295583,
                     "language": "Shell",
                     "license": "MIT",
-                    "last_commit": "2026-11-19T14:43:45Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-11-23T17:28:03Z",
+                    "open_issues": 0,
                     "owner": "gwittebolle",
                     "repo": "claude-carbon",
                     "stars": 254,
@@ -569,7 +569,7 @@
                     "id": 1299156354,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T07:53:04Z",
+                    "last_commit": "2026-11-23T10:52:43Z",
                     "open_issues": 2,
                     "owner": "fabiocicerchia",
                     "repo": "carbon-badge",
@@ -580,35 +580,6 @@
                       "github-actions",
                       "green-software",
                       "greenops",
-                      "sustainability"
-                    ]
-                  },
-                  "first_seen": "2026-09-27T21:49:20.651Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Greenlint",
-                  "description": "Static linter for carbon-inefficient patterns in code and CI: oversized images, missing caches, wasted compute.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Static linter for carbon-inefficient patterns in code and CI — flags unnecessary compute, oversized containers, missing cache directives, and more.",
-                    "homepage": "https://fabiocicerchia.github.io/greenlint/",
-                    "id": 1299157345,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-11-19T17:35:59Z",
-                    "open_issues": 1,
-                    "owner": "fabiocicerchia",
-                    "repo": "greenlint",
-                    "stars": 1,
-                    "topics": [
-                      "carbon",
-                      "ci",
-                      "green-software",
-                      "greenops",
-                      "linter",
-                      "static-analysis",
                       "sustainability"
                     ]
                   },
@@ -637,6 +608,35 @@
                       "co2",
                       "github-actions",
                       "greenops",
+                      "sustainability"
+                    ]
+                  },
+                  "first_seen": "2026-09-27T21:49:20.651Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Greenlint",
+                  "description": "Static linter for carbon-inefficient patterns in code and CI: oversized images, missing caches, wasted compute.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Static linter for carbon-inefficient patterns in code and CI — flags unnecessary compute, oversized containers, missing cache directives, and more.",
+                    "homepage": "https://fabiocicerchia.github.io/greenlint/",
+                    "id": 1299157345,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-23T10:50:53Z",
+                    "open_issues": 1,
+                    "owner": "fabiocicerchia",
+                    "repo": "greenlint",
+                    "stars": 0,
+                    "topics": [
+                      "carbon",
+                      "ci",
+                      "green-software",
+                      "greenops",
+                      "linter",
+                      "static-analysis",
                       "sustainability"
                     ]
                   },
@@ -724,7 +724,7 @@
                     "id": 945923315,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T11:24:58Z",
+                    "last_commit": "2026-11-23T12:49:58Z",
                     "open_issues": 30,
                     "owner": "carbonintensityio",
                     "repo": "green-scheduler",
@@ -959,8 +959,8 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T10:44:16Z",
-                    "open_issues": 86,
+                    "last_commit": "2026-11-23T18:28:50Z",
+                    "open_issues": 82,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1606,
@@ -1257,7 +1257,7 @@
                     "open_issues": 102,
                     "owner": "fenrus75",
                     "repo": "powertop",
-                    "stars": 1359,
+                    "stars": 1360,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:58:13.608Z"
@@ -1530,8 +1530,8 @@
                 "id": 1304407094,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-13T10:19:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-23T11:12:11Z",
+                "open_issues": 0,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
                 "stars": 221,
@@ -1570,7 +1570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:57:46.387Z",
+    "last_updated": "2026-11-24T04:09:52.420Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
