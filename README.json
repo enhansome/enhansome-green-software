@@ -959,8 +959,8 @@
                     "id": 454528656,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T18:11:35Z",
-                    "open_issues": 81,
+                    "last_commit": "2026-11-27T19:08:09Z",
+                    "open_issues": 78,
                     "owner": "sustainable-computing-io",
                     "repo": "kepler",
                     "stars": 1605,
@@ -1447,7 +1447,7 @@
                     "id": 1154545762,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-18T17:25:27Z",
+                    "last_commit": "2026-11-28T01:04:54Z",
                     "open_issues": 7,
                     "owner": "CometWeb-io",
                     "repo": "Carbon-Badge",
@@ -1531,7 +1531,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-26T15:49:03Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "QuesmaOrg",
                 "repo": "awesome-ai-tokenomics",
                 "stars": 223,
@@ -1570,7 +1570,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T02:00:29.766Z",
+    "last_updated": "2026-11-28T01:45:30.918Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
